@@ -1245,15 +1245,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-4-21-1",
-      "name": "حمله به مسجد گوهرشاد و کشتار مردم به دست رضاخان",
-      "description": "حمله به مسجد گوهرشاد و کشتار مردم به دست رضاخان",
-      "month": 4,
-      "day": 21,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-4-22-0",
       "name": "روز بزرگداشت خوارزمی - روز فناوری اطلاعات",
       "description": "روز بزرگداشت خوارزمی - روز فناوری اطلاعات",
@@ -1470,15 +1461,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-5-28-0",
-      "name": "کودتای آمریکا برای بازگرداندن شاه فراری",
-      "description": "کودتای آمریکا برای بازگرداندن شاه فراری",
-      "month": 5,
-      "day": 28,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-5-28-1",
       "name": "گشایش مجلس خبرگان برای بررسی نهایی قانون اساسی جمهوری اسلامی ایران",
       "description": "گشایش مجلس خبرگان برای بررسی نهایی قانون اساسی جمهوری اسلامی ایران",
@@ -1538,15 +1520,6 @@
       "description": "شهادت سید‌علی اندرزگو (در روز ۱۹ ماه مبارک رمضان)",
       "month": 6,
       "day": 2,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-6-3-0",
-      "name": "اِشغال ایران توسّط متّفقین و فرار رضاخان",
-      "description": "اِشغال ایران توسّط متّفقین و فرار رضاخان",
-      "month": 6,
-      "day": 3,
       "category": "observance",
       "isDayOff": false
     },
@@ -2343,15 +2316,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-10-17-0",
-      "name": "اجرای طرح استعماری حذف حجاب (کشف حجاب) به دست رضاخان دیکتاتور",
-      "description": "اجرای طرح استعماری حذف حجاب (کشف حجاب) به دست رضاخان دیکتاتور",
-      "month": 10,
-      "day": 17,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-10-17-1",
       "name": "روز بزرگداشت خواجوی کرمانی",
       "description": "روز بزرگداشت خواجوی کرمانی",
@@ -2393,15 +2357,6 @@
       "description": "روز تاریخ‌نگاری انقلاب اسلامی (همزمان با سالروز صدور نامه تاریخی حضرت امام(ره) در سال ۱۳۶۷)",
       "month": 10,
       "day": 25,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-10-26-0",
-      "name": "آخرین فرار شاه معدوم",
-      "description": "آخرین فرار شاه معدوم",
-      "month": 10,
-      "day": 26,
       "category": "observance",
       "isDayOff": false
     },
@@ -2501,15 +2456,6 @@
       "description": "روز اقتصاد مقاومتی و کارآفرینی",
       "month": 11,
       "day": 29,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-12-3-0",
-      "name": "کودتای انگلیسی رضاخان",
-      "description": "کودتای انگلیسی رضاخان",
-      "month": 12,
-      "day": 3,
       "category": "observance",
       "isDayOff": false
     },
@@ -3349,15 +3295,6 @@
       "description": "روز بزرگداشت حضرت صالح بن موسی کاظم علیه‌السلام",
       "hijriMonth": 11,
       "hijriDay": 5,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-ghamari-11-6-0",
-      "name": "روز بزرگداشت حضرت احمد بن موسی شاهچراغ علیه‌السلام",
-      "description": "روز بزرگداشت حضرت احمد بن موسی شاهچراغ علیه‌السلام",
-      "hijriMonth": 11,
-      "hijriDay": 6,
       "category": "observance",
       "isDayOff": false
     },
