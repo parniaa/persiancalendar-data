@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-28",
+  "fixedOccasions": [
+    {
+      "id": "cooperation-day",
+      "name": "روز تعاون",
+      "description": "سیزدهم شهریور، روز تعاون",
+      "month": 6,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "basic-sciences-biruni-day",
+      "name": "روز علوم پایه و بزرگداشت ابوریحان بیرونی",
+      "description": "سیزدهم شهریور، روز علوم پایه به مناسبت بزرگداشت ابوریحان بیرونی",
+      "month": 6,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "emergency-medicine-day",
+      "name": "روز اورژانس و فوریت‌های پزشکی",
+      "description": "بیست و ششم شهریور، روز اورژانس و فوریت‌های پزشکی",
+      "month": 6,
+      "day": 26,
+      "category": "observance",
+      "isDayOff": false
+    }
+  ],
+  "lunarOccasions": [],
+  "dateOverrides": []
+}
