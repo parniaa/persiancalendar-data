@@ -3,7 +3,7 @@
 Remote occasions data for **Roozane (PersianCalendar)** — a Persian/Iranian solar (Shamsi)
 calendar app for iOS, watchOS, and iPadOS. Bundle identifier `com.persiancalendar.app`.
 
-App Store listing: **TODO — add link**
+App Store listing: [Roozane - Persian Calendar](https://apps.apple.com/ca/app/roozane-persian-calendar/id6785550003)
 
 ## What this repo is
 
