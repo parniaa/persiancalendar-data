@@ -561,15 +561,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-1-2-2",
-      "name": "آغاز عملیات فتح‌المبین",
-      "description": "آغاز عملیات فتح‌المبین",
-      "month": 1,
-      "day": 2,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-1-6-0",
       "name": "زادروز زرتشت",
       "description": "زادروز زرتشت",
@@ -741,15 +732,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-2-10-1",
-      "name": "آغاز عملیات بیت‌المقدس",
-      "description": "آغاز عملیات بیت‌المقدس",
-      "month": 2,
-      "day": 10,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-2-15-0",
       "name": "روز بزرگداشت شیخ صدوق",
       "description": "روز بزرگداشت شیخ صدوق",
@@ -872,15 +854,6 @@
       "description": "روز بزرگداشت ملّاصدرا (صدرالمتألهین)",
       "month": 3,
       "day": 1,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-3-3-0",
-      "name": "فتح خرمشهر در عملیات بیت‌المقدس و روز مقاومت، ایثار و پیروزی",
-      "description": "فتح خرمشهر در عملیات بیت‌المقدس و روز مقاومت، ایثار و پیروزی",
-      "month": 3,
-      "day": 3,
       "category": "observance",
       "isDayOff": false
     },
@@ -1299,15 +1272,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-5-5-0",
-      "name": "سالروز عملیات افتخار‌آفرین مرصاد",
-      "description": "سالروز عملیات افتخار‌آفرین مرصاد",
-      "month": 5,
-      "day": 5,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-5-6-0",
       "name": "روز کارآفرینی و آموزش‌های فنّی‌و‌حرفه‌ای",
       "description": "روز کارآفرینی و آموزش‌های فنّی‌و‌حرفه‌ای",
@@ -1515,15 +1479,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-6-10-0",
-      "name": "روز بانکداری اسلامی (سالروز تصویب قانون عملیات بانکی بدون ربا)",
-      "description": "روز بانکداری اسلامی (سالروز تصویب قانون عملیات بانکی بدون ربا)",
-      "month": 6,
-      "day": 10,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-6-10-1",
       "name": "روز تشکیل قرارگاه پدافند هوایی حضرت خاتم‌الانبیا صلی اللّه علیه و آله",
       "description": "روز تشکیل قرارگاه پدافند هوایی حضرت خاتم‌الانبیا صلی اللّه علیه و آله",
@@ -1650,15 +1605,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-7-5-0",
-      "name": "شکست حصر آبادان در عملیات ثامن‌الائمه علیه‌السلام",
-      "description": "شکست حصر آبادان در عملیات ثامن‌الائمه علیه‌السلام",
-      "month": 7,
-      "day": 5,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-7-7-1",
       "name": "شهادت سرداران اسلام: فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا",
       "description": "شهادت سرداران اسلام: فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا",
@@ -1691,15 +1637,6 @@
       "description": "روز بزرگداشت مولوی",
       "month": 7,
       "day": 8,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-7-10-0",
-      "name": "سالروز عملیات وعده صادق ۲ ، حمله گسترده و بسیار شدید موشکی از خاک ایران به رژیم اشغالگر صهیونیستی",
-      "description": "سالروز عملیات وعده صادق ۲ ، حمله گسترده و بسیار شدید موشکی از خاک ایران به رژیم اشغالگر صهیونیستی",
-      "month": 7,
-      "day": 10,
       "category": "observance",
       "isDayOff": false
     },
@@ -2496,15 +2433,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-12-18-1",
-      "name": "سالروز تأسیس کانون‌های فرهنگی‌و‌هنری مساجد کشور",
-      "description": "سالروز تأسیس کانون‌های فرهنگی‌و‌هنری مساجد کشور",
-      "month": 12,
-      "day": 18,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-12-18-2",
       "name": "روز بوشهر",
       "description": "روز بوشهر",
@@ -2881,15 +2809,6 @@
       "description": "پانزدهم رمضان، ولادت امام حسن مجتبی (ع)",
       "hijriMonth": 9,
       "hijriDay": 15,
-      "category": "religiousShia",
-      "isDayOff": false
-    },
-    {
-      "id": "imam-ali-wounding",
-      "name": "ضربت خوردن امیرالمؤمنین علی (ع)",
-      "description": "نوزدهم رمضان، شب ضربت خوردن امام علی (ع) در محراب مسجد کوفه",
-      "hijriMonth": 9,
-      "hijriDay": 19,
       "category": "religiousShia",
       "isDayOff": false
     },
@@ -3428,15 +3347,6 @@
       "description": "روز جهانی شیر مادر",
       "gregorianMonth": 8,
       "gregorianDay": 1,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-miladi-8-21-0",
-      "name": "روز جهانی مسجد",
-      "description": "روز جهانی مسجد",
-      "gregorianMonth": 8,
-      "gregorianDay": 21,
       "category": "observance",
       "isDayOff": false
     },
