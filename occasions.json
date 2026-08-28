@@ -3,6 +3,546 @@
   "updatedAt": "2026-08-28",
   "fixedOccasions": [
     {
+      "id": "nowruz-1",
+      "name": "نوروز",
+      "description": "آغاز سال نو و بهار، نخستین روز فروردین",
+      "month": 1,
+      "day": 1,
+      "category": "national",
+      "isDayOff": true
+    },
+    {
+      "id": "nowruz-2",
+      "name": "نوروز",
+      "description": "دومین روز تعطیلات نوروز",
+      "month": 1,
+      "day": 2,
+      "category": "national",
+      "isDayOff": true
+    },
+    {
+      "id": "nowruz-3",
+      "name": "نوروز",
+      "description": "سومین روز تعطیلات نوروز",
+      "month": 1,
+      "day": 3,
+      "category": "national",
+      "isDayOff": true
+    },
+    {
+      "id": "nowruz-4",
+      "name": "نوروز",
+      "description": "چهارمین روز تعطیلات نوروز",
+      "month": 1,
+      "day": 4,
+      "category": "national",
+      "isDayOff": true
+    },
+    {
+      "id": "islamic-republic-day",
+      "name": "روز جمهوری اسلامی",
+      "description": "سالروز استقرار نظام جمهوری اسلامی ایران",
+      "month": 1,
+      "day": 12,
+      "category": "national",
+      "isDayOff": true
+    },
+    {
+      "id": "sizdah-bedar",
+      "name": "سیزده‌بدر",
+      "description": "روز طبیعت، سیزدهمین روز نوروز",
+      "month": 1,
+      "day": 13,
+      "category": "national",
+      "isDayOff": true
+    },
+    {
+      "id": "imam-khomeini-death",
+      "name": "رحلت امام خمینی",
+      "description": "سالروز رحلت بنیانگذار جمهوری اسلامی ایران",
+      "month": 3,
+      "day": 14,
+      "category": "national",
+      "isDayOff": true
+    },
+    {
+      "id": "khordad-15-uprising",
+      "name": "قیام ۱۵ خرداد",
+      "description": "سالروز قیام خونین پانزدهم خرداد",
+      "month": 3,
+      "day": 15,
+      "category": "national",
+      "isDayOff": true
+    },
+    {
+      "id": "islamic-revolution",
+      "name": "پیروزی انقلاب اسلامی",
+      "description": "سالروز پیروزی انقلاب اسلامی ایران در ۲۲ بهمن ۱۳۵۷",
+      "month": 11,
+      "day": 22,
+      "category": "national",
+      "isDayOff": true
+    },
+    {
+      "id": "oil-nationalization",
+      "name": "ملی شدن صنعت نفت",
+      "description": "سالروز ملی شدن صنعت نفت ایران",
+      "month": 12,
+      "day": 29,
+      "category": "national",
+      "isDayOff": true
+    },
+    {
+      "id": "farvardinegan",
+      "name": "فروردینگان",
+      "description": "آیینی برای یادبود فروهرها و روان درگذشتگان در فرهنگ زرتشتی",
+      "month": 1,
+      "day": 19,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "ardibeheshtegan",
+      "name": "اردیبهشتگان",
+      "description": "جشن اردیبهشت، نماد راستی، پاکی، آتش و بهترین سامان هستی",
+      "month": 2,
+      "day": 3,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "khordadgan",
+      "name": "خردادگان",
+      "description": "جشن خرداد، وابسته به کمال، تندرستی و پاسداشت آب",
+      "month": 3,
+      "day": 6,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "tirgan",
+      "name": "تیرگان",
+      "description": "جشن باران، آب و یاد آرش کمانگیر در فرهنگ ایرانی",
+      "month": 4,
+      "day": 13,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "amordadgan",
+      "name": "امردادگان",
+      "description": "جشن امرداد، نماد بی‌مرگی و پاسداشت گیاهان و زندگی",
+      "month": 5,
+      "day": 7,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "shahrivargan",
+      "name": "شهریورگان",
+      "description": "جشن شهریور، نماد شهریاری نیک، توان، فلزات و پایداری",
+      "month": 6,
+      "day": 4,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "mehregan",
+      "name": "مهرگان",
+      "description": "جشن مهر، دوستی، پیمان، دادگری و سپاسگزاری پاییزی",
+      "month": 7,
+      "day": 10,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "cyrus-day",
+      "name": "روز کوروش",
+      "description": "روزی غیررسمی برای یادبود کوروش بزرگ و میراث ایران باستان",
+      "month": 8,
+      "day": 7,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "abanegan",
+      "name": "آبانگان",
+      "description": "جشن آبان، آیینی برای پاسداشت آب‌ها و ایزدبانوی آناهیتا",
+      "month": 8,
+      "day": 10,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "azargan",
+      "name": "آذرگان",
+      "description": "جشن آذر، پاسداشت آتش، روشنایی و پاکی در آیین زرتشتی",
+      "month": 9,
+      "day": 9,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "yalda",
+      "name": "شب یلدا",
+      "description": "بلندترین شب سال و جشن زایش دوباره روشنایی پس از تاریکی",
+      "month": 9,
+      "day": 30,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "khorram-rooz",
+      "name": "خرم‌روز",
+      "description": "نخستین روز دی‌ماه و آیینی کهن برای شادی، نیکی و آفرینش",
+      "month": 10,
+      "day": 1,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "deygan-1",
+      "name": "دی‌گان اول",
+      "description": "نخستین جشن دی‌ماه در ستایش دادار و آفریننده",
+      "month": 10,
+      "day": 1,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "deygan-2",
+      "name": "دی‌گان دوم",
+      "description": "دومین جشن دی‌ماه در ستایش دادار و آفریننده",
+      "month": 10,
+      "day": 8,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "zartosht-no-diso",
+      "name": "زرتشت نودیسو",
+      "description": "سالروز درگذشت زرتشت، پیام‌آور آیین زرتشتی",
+      "month": 10,
+      "day": 11,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "deygan-3",
+      "name": "دی‌گان سوم",
+      "description": "سومین جشن دی‌ماه در ستایش دادار و آفریننده",
+      "month": 10,
+      "day": 15,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "deygan-4",
+      "name": "دی‌گان چهارم",
+      "description": "چهارمین جشن دی‌ماه در ستایش دادار و آفریننده",
+      "month": 10,
+      "day": 23,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "bahmanagan",
+      "name": "بهمنگان",
+      "description": "جشن بهمن، نماد اندیشه نیک و پاسداشت جانوران سودمند",
+      "month": 11,
+      "day": 2,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "sadeh",
+      "name": "سده",
+      "description": "جشن آتش در میانه زمستان، نماد پیروزی روشنایی بر سرما و تاریکی",
+      "month": 11,
+      "day": 10,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "spendarmadgan",
+      "name": "سپندارمذگان",
+      "description": "جشن زمین، مهر، فروتنی و سپاس از زنان در فرهنگ ایرانی",
+      "month": 12,
+      "day": 5,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "farvardegan",
+      "name": "فروردگان",
+      "description": "روزهای پایانی سال برای یادبود فروهرها و روان درگذشتگان",
+      "month": 12,
+      "day": 26,
+      "category": "ceremony",
+      "isDayOff": false
+    },
+    {
+      "id": "doctors-day",
+      "name": "روز پزشک",
+      "description": "اول شهریور، روز پزشک به مناسبت زادروز ابن‌سینا",
+      "month": 6,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "teachers-day",
+      "name": "روز معلم",
+      "description": "دوازدهم اردیبهشت، روز معلم به یاد شهادت استاد مرتضی مطهری",
+      "month": 2,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "university-students-day",
+      "name": "روز دانشجو",
+      "description": "شانزدهم آذر، یادبود دانشجویان جان‌باخته دانشگاه تهران در سال ۱۳۳۲",
+      "month": 9,
+      "day": 16,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "school-students-day",
+      "name": "روز دانش‌آموز",
+      "description": "سیزدهم آبان، روز دانش‌آموز",
+      "month": 8,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "engineers-day",
+      "name": "روز مهندس",
+      "description": "پنجم اسفند، روز مهندس به مناسبت زادروز خواجه نصیرالدین طوسی",
+      "month": 12,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "nuclear-technology-day",
+      "name": "روز ملی فناوری هسته‌ای",
+      "description": "بیستم فروردین، روز ملی فناوری هسته‌ای",
+      "month": 1,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "attar-nishapuri-day",
+      "name": "بزرگداشت عطار نیشابوری",
+      "description": "بیست و پنجم فروردین، روز بزرگداشت فریدالدین عطار نیشابوری",
+      "month": 1,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "girls-day",
+      "name": "روز دختر",
+      "description": "سی‌ام فروردین، روز دختر",
+      "month": 1,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "saadi-day",
+      "name": "روز بزرگداشت سعدی و نثر پارسی",
+      "description": "یکم اردیبهشت، روز بزرگداشت سعدی شیرازی و نثر پارسی",
+      "month": 2,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "persian-gulf-day",
+      "name": "روز ملی خلیج فارس",
+      "description": "دهم اردیبهشت، روز ملی خلیج فارس",
+      "month": 2,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "ferdowsi-day",
+      "name": "روز بزرگداشت فردوسی و پاسداشت زبان فارسی",
+      "description": "بیست و پنجم اردیبهشت، روز بزرگداشت حکیم ابوالقاسم فردوسی و زبان فارسی",
+      "month": 2,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "population-day",
+      "name": "روز جمعیت",
+      "description": "سی‌ام اردیبهشت، روز جمعیت",
+      "month": 2,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "service-martyrs-day",
+      "name": "روز شهدای خدمت",
+      "description": "سی‌ام اردیبهشت، روز شهدای خدمت",
+      "month": 2,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "molla-sadra-day",
+      "name": "روز بزرگداشت ملاصدرا و بهره‌وری",
+      "description": "یکم خرداد، روز بزرگداشت ملاصدرا و روز ملی بهره‌وری",
+      "month": 3,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "journalist-day",
+      "name": "روز خبرنگار",
+      "description": "هفدهم مرداد، روز خبرنگار به یاد شهادت محمود صارمی",
+      "month": 5,
+      "day": 17,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "cinema-day",
+      "name": "روز سینما",
+      "description": "بیست و یکم شهریور، روز ملی سینما",
+      "month": 6,
+      "day": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "persian-poetry-day",
+      "name": "روز شعر و ادب فارسی",
+      "description": "بیست و هفتم شهریور، روز شعر و ادب فارسی به یاد استاد شهریار",
+      "month": 6,
+      "day": 27,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "hafez-day",
+      "name": "روز بزرگداشت حافظ",
+      "description": "بیستم مهر، روز بزرگداشت خواجه شمس‌الدین حافظ شیرازی",
+      "month": 7,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "student-basij-day",
+      "name": "روز بسیج دانش‌آموزی",
+      "description": "هشتم آبان، روز بسیج دانش‌آموزی به یاد شهادت محمدحسین فهمیده",
+      "month": 8,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "book-reading-day",
+      "name": "روز کتاب و کتابخوانی",
+      "description": "بیست و چهارم آبان، روز کتاب، کتابخوانی و کتابدار",
+      "month": 8,
+      "day": 24,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "soleimani-martyrdom",
+      "name": "سالروز شهادت سردار سلیمانی و روز مقاومت جهانی",
+      "description": "سیزدهم دی، سالروز شهادت سردار قاسم سلیمانی و روز مقاومت جهانی",
+      "month": 10,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "amirkabir-martyrdom",
+      "name": "سالروز شهادت امیرکبیر",
+      "description": "بیستم دی، سالروز شهادت میرزا تقی‌خان امیرکبیر",
+      "month": 10,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "air-force-day",
+      "name": "روز نیروی هوایی",
+      "description": "نوزدهم بهمن، روز نیروی هوایی ارتش جمهوری اسلامی ایران",
+      "month": 11,
+      "day": 19,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "tree-planting-day",
+      "name": "روز درختکاری",
+      "description": "پانزدهم اسفند، روز درختکاری",
+      "month": 12,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "nezami-ganjavi-day",
+      "name": "بزرگداشت نظامی گنجوی",
+      "description": "بیست و یکم اسفند، روز بزرگداشت حکیم نظامی گنجوی",
+      "month": 12,
+      "day": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "parvin-etesami-day",
+      "name": "بزرگداشت پروین اعتصامی",
+      "description": "بیست و پنجم اسفند، روز بزرگداشت پروین اعتصامی",
+      "month": 12,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "dentists-day",
+      "name": "روز دندان‌پزشک",
+      "description": "بیست و سوم فروردین، روز ملی دندان‌پزشک",
+      "month": 1,
+      "day": 23,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "psychologist-counselor-day",
+      "name": "روز روان‌شناس و مشاور",
+      "description": "نهم اردیبهشت، روز روان‌شناس و مشاور",
+      "month": 2,
+      "day": 9,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "pharmacist-day",
+      "name": "روز داروساز",
+      "description": "پنجم شهریور، روز داروسازی به مناسبت زادروز محمد زکریای رازی",
+      "month": 6,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
       "id": "cooperation-day",
       "name": "روز تعاون",
       "description": "سیزدهم شهریور، روز تعاون",
@@ -30,6 +570,434 @@
       "isDayOff": false
     }
   ],
-  "lunarOccasions": [],
-  "dateOverrides": []
+  "lunarOccasions": [
+    {
+      "id": "tasua",
+      "name": "تاسوعای حسینی",
+      "description": "نهم محرم، روز وفاداری حضرت عباس (ع)",
+      "hijriMonth": 1,
+      "hijriDay": 9,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "ashura",
+      "name": "عاشورای حسینی",
+      "description": "دهم محرم، شهادت امام حسین (ع)",
+      "hijriMonth": 1,
+      "hijriDay": 10,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "arbaeen",
+      "name": "اربعین حسینی",
+      "description": "چهلمین روز شهادت امام حسین (ع)، بیستم صفر",
+      "hijriMonth": 2,
+      "hijriDay": 20,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "rehlat-payambar-imam-hassan",
+      "name": "رحلت پیامبر اسلام و شهادت امام حسن مجتبی (ع)",
+      "description": "بیست و هشتم صفر، رحلت پیامبر اکرم (ص) و شهادت امام حسن مجتبی (ع)",
+      "hijriMonth": 2,
+      "hijriDay": 28,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "imam-reza-martyrdom",
+      "name": "شهادت امام رضا (ع)",
+      "description": "آخر صفر، شهادت امام رضا (ع)",
+      "hijriMonth": 2,
+      "hijriDay": 29,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "prophet-birthday",
+      "name": "میلاد پیامبر اسلام (ص)",
+      "description": "هفدهم ربیع‌الاول، میلاد پیامبر اکرم (ص) و امام جعفر صادق (ع)",
+      "hijriMonth": 3,
+      "hijriDay": 17,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "mabas",
+      "name": "مبعث پیامبر اکرم (ص)",
+      "description": "بیست و هفتم رجب، آغاز بعثت پیامبر اسلام (ص)",
+      "hijriMonth": 7,
+      "hijriDay": 27,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "nimeh-shaban",
+      "name": "نیمه شعبان",
+      "description": "پانزدهم شعبان، ولادت امام زمان (عج)",
+      "hijriMonth": 8,
+      "hijriDay": 15,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "imam-ali-martyrdom",
+      "name": "شهادت امام علی (ع)",
+      "description": "بیست و یکم رمضان، شهادت امام علی (ع)",
+      "hijriMonth": 9,
+      "hijriDay": 21,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "eid-fitr-1",
+      "name": "عید فطر",
+      "description": "عید سعید فطر، یکم شوال",
+      "hijriMonth": 10,
+      "hijriDay": 1,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "eid-fitr-2",
+      "name": "عید فطر (روز دوم)",
+      "description": "دومین روز عید سعید فطر",
+      "hijriMonth": 10,
+      "hijriDay": 2,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "eid-adha",
+      "name": "عید قربان",
+      "description": "عید سعید قربان، دهم ذی‌الحجه",
+      "hijriMonth": 12,
+      "hijriDay": 10,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "eid-ghadir",
+      "name": "عید غدیر خم",
+      "description": "عید سعید غدیر خم، هجدهم ذی‌الحجه",
+      "hijriMonth": 12,
+      "hijriDay": 18,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "imam-sadegh-martyrdom",
+      "name": "شهادت امام جعفر صادق (ع)",
+      "description": "بیست و پنجم شوال، شهادت امام جعفر صادق (ع)",
+      "hijriMonth": 10,
+      "hijriDay": 25,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "mothers-day",
+      "name": "روز مادر و روز زن",
+      "description": "بیستم جمادی‌الثانی، ولادت حضرت فاطمه زهرا (س)، روز مادر و زن",
+      "hijriMonth": 6,
+      "hijriDay": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "nurses-day",
+      "name": "روز پرستار",
+      "description": "پنجم جمادی‌الاول، ولادت حضرت زینب (س)، روز پرستار",
+      "hijriMonth": 5,
+      "hijriDay": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-reza-birth",
+      "name": "میلاد امام رضا (ع)",
+      "description": "یازدهم ذی‌القعده، ولادت امام رضا (ع)",
+      "hijriMonth": 11,
+      "hijriDay": 11,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "ali-fatima-marriage",
+      "name": "جشن ازدواج حضرت علی (ع) و حضرت فاطمه (س)",
+      "description": "اول ذی‌الحجه، سالروز ازدواج امیرالمؤمنین علی (ع) و حضرت فاطمه زهرا (س)",
+      "hijriMonth": 12,
+      "hijriDay": 1,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "imam-baqir-martyrdom",
+      "name": "شهادت امام محمد باقر (ع)",
+      "description": "هفتم ذی‌الحجه، شهادت امام محمد باقر (ع)",
+      "hijriMonth": 12,
+      "hijriDay": 7,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "arafah-day",
+      "name": "روز عرفه",
+      "description": "نهم ذی‌الحجه، روز دعا و نیایش پیش از عید قربان",
+      "hijriMonth": 12,
+      "hijriDay": 9,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "mubahala-day",
+      "name": "روز مباهله",
+      "description": "بیست و چهارم ذی‌الحجه، روز مباهله پیامبر اکرم (ص) با نصارای نجران",
+      "hijriMonth": 12,
+      "hijriDay": 24,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-musa-kazim-birth",
+      "name": "ولادت امام موسی کاظم (ع)",
+      "description": "هفتم صفر، ولادت امام موسی کاظم (ع)",
+      "hijriMonth": 2,
+      "hijriDay": 7,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-hasan-askari-martyrdom",
+      "name": "شهادت امام حسن عسکری (ع)",
+      "description": "هشتم ربیع‌الاول، شهادت امام حسن عسکری (ع)",
+      "hijriMonth": 3,
+      "hijriDay": 8,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "imam-mahdi-imamate-start",
+      "name": "آغاز امامت حضرت مهدی (عج)",
+      "description": "هشتم ربیع‌الاول، آغاز امامت دوازدهمین امام شیعیان",
+      "hijriMonth": 3,
+      "hijriDay": 8,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "imam-sajjad-martyrdom",
+      "name": "شهادت امام سجاد (ع)",
+      "description": "بیست و پنجم محرم، شهادت امام زین‌العابدین (ع) (روایت مشهورتر؛ ۱۲ و ۱۸ محرم نیز نقل شده)",
+      "hijriMonth": 1,
+      "hijriDay": 25,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-hasan-askari-birth",
+      "name": "ولادت امام حسن عسکری (ع)",
+      "description": "هشتم ربیع‌الثانی، ولادت امام حسن عسکری (ع)",
+      "hijriMonth": 4,
+      "hijriDay": 8,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "fatima-zahra-martyrdom",
+      "name": "شهادت حضرت فاطمه زهرا (س)",
+      "description": "سوم جمادی‌الثانی، شهادت حضرت فاطمه زهرا (س) بنا بر روایت مشهور و تقویم رسمی",
+      "hijriMonth": 6,
+      "hijriDay": 3,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "umm-al-banin-death",
+      "name": "وفات حضرت ام‌البنین (س)",
+      "description": "سیزدهم جمادی‌الثانی، وفات حضرت ام‌البنین (س) و روز تکریم مادران و همسران شهدا",
+      "hijriMonth": 6,
+      "hijriDay": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-ali-hadi-martyrdom",
+      "name": "شهادت امام علی‌النقی الهادی (ع)",
+      "description": "سوم رجب، شهادت امام علی‌النقی الهادی (ع)",
+      "hijriMonth": 7,
+      "hijriDay": 3,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-mohammad-taqi-birth",
+      "name": "ولادت امام محمد تقی (ع)",
+      "description": "دهم رجب، ولادت امام محمد تقی، جواد الائمه (ع)",
+      "hijriMonth": 7,
+      "hijriDay": 10,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-ali-birth",
+      "name": "ولادت امام علی (ع) و روز پدر",
+      "description": "سیزدهم رجب، ولادت امیرالمؤمنین علی (ع) و روز پدر",
+      "hijriMonth": 7,
+      "hijriDay": 13,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "imam-musa-kazim-martyrdom",
+      "name": "شهادت امام موسی کاظم (ع)",
+      "description": "بیست و پنجم رجب، شهادت امام موسی کاظم (ع)",
+      "hijriMonth": 7,
+      "hijriDay": 25,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-husayn-birth",
+      "name": "ولادت امام حسین (ع)",
+      "description": "سوم شعبان، ولادت امام حسین (ع)",
+      "hijriMonth": 8,
+      "hijriDay": 3,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "hazrat-abbas-birth",
+      "name": "ولادت حضرت ابوالفضل العباس (ع)",
+      "description": "چهارم شعبان، ولادت حضرت ابوالفضل العباس (ع)",
+      "hijriMonth": 8,
+      "hijriDay": 4,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-sajjad-birth",
+      "name": "ولادت امام زین‌العابدین (ع)",
+      "description": "پنجم شعبان، ولادت امام سجاد، زین‌العابدین (ع)",
+      "hijriMonth": 8,
+      "hijriDay": 5,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-ali-akbar-birth",
+      "name": "ولادت حضرت علی‌اکبر (ع) و روز جوان",
+      "description": "یازدهم شعبان، ولادت حضرت علی‌اکبر (ع) و روز جوان",
+      "hijriMonth": 8,
+      "hijriDay": 11,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-hasan-mojtaba-birth",
+      "name": "ولادت امام حسن مجتبی (ع)",
+      "description": "پانزدهم رمضان، ولادت امام حسن مجتبی (ع)",
+      "hijriMonth": 9,
+      "hijriDay": 15,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "imam-ali-wounding",
+      "name": "ضربت خوردن امیرالمؤمنین علی (ع)",
+      "description": "نوزدهم رمضان، شب ضربت خوردن امام علی (ع) در محراب مسجد کوفه",
+      "hijriMonth": 9,
+      "hijriDay": 19,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "laylat-al-qadr-19",
+      "name": "لیله القدر (شب نوزدهم رمضان)",
+      "description": "شب نوزدهم رمضان، یکی از شب‌های قدر",
+      "hijriMonth": 9,
+      "hijriDay": 19,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "laylat-al-qadr-21",
+      "name": "لیله القدر (شب بیست و یکم رمضان)",
+      "description": "شب بیست و یکم رمضان، یکی از شب‌های قدر",
+      "hijriMonth": 9,
+      "hijriDay": 21,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "laylat-al-qadr-23",
+      "name": "لیله القدر (شب بیست و سوم رمضان)",
+      "description": "شب بیست و سوم رمضان، بزرگ‌ترین شب قدر",
+      "hijriMonth": 9,
+      "hijriDay": 23,
+      "category": "religiousShia",
+      "isDayOff": false
+    },
+    {
+      "id": "lady-khadija-death",
+      "name": "وفات حضرت خدیجه (س)",
+      "description": "دهم رمضان، وفات حضرت خدیجه کبری (س)، همسر پیامبر اکرم (ص)",
+      "hijriMonth": 9,
+      "hijriDay": 10,
+      "category": "religiousShia",
+      "isDayOff": false
+    }
+  ],
+  "dateOverrides": [
+    {
+      "id": "tasua-h1448",
+      "year": 1405,
+      "month": 4,
+      "day": 3
+    },
+    {
+      "id": "ashura-h1448",
+      "year": 1405,
+      "month": 4,
+      "day": 4
+    },
+    {
+      "id": "arbaeen-h1448",
+      "year": 1405,
+      "month": 5,
+      "day": 13
+    },
+    {
+      "id": "rehlat-payambar-imam-hassan-h1448",
+      "year": 1405,
+      "month": 5,
+      "day": 21
+    },
+    {
+      "id": "imam-reza-martyrdom-h1448",
+      "year": 1405,
+      "month": 5,
+      "day": 22
+    },
+    {
+      "id": "prophet-birthday-h1448",
+      "year": 1405,
+      "month": 6,
+      "day": 8
+    },
+    {
+      "id": "imam-sadegh-martyrdom-h1447",
+      "year": 1405,
+      "month": 1,
+      "day": 25
+    },
+    {
+      "id": "fatima-zahra-martyrdom-h1448",
+      "year": 1405,
+      "month": 8,
+      "day": 22
+    }
+  ]
 }
