@@ -390,15 +390,6 @@
       "isDayOff": false
     },
     {
-      "id": "service-martyrs-day",
-      "name": "روز شهدای خدمت",
-      "description": "سی‌ام اردیبهشت، روز شهدای خدمت",
-      "month": 2,
-      "day": 30,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "molla-sadra-day",
       "name": "روز بزرگداشت ملاصدرا و بهره‌وری",
       "description": "یکم خرداد، روز بزرگداشت ملاصدرا و روز ملی بهره‌وری",
@@ -665,15 +656,6 @@
       "description": "روز گندم و نان",
       "month": 1,
       "day": 31,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-2-1-2",
-      "name": "روز شهدای ورزشکار (همزمان با روز تولد شهید ابراهیم هادی)",
-      "description": "روز شهدای ورزشکار (همزمان با روز تولد شهید ابراهیم هادی)",
-      "month": 2,
-      "day": 1,
       "category": "observance",
       "isDayOff": false
     },
@@ -962,15 +944,6 @@
       "description": "روز جهانی صنایع دستی - روز ملّی فرش",
       "month": 3,
       "day": 20,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-3-23-1",
-      "name": "روز شهدای اقتدار و اتحاد ملی",
-      "description": "روز شهدای اقتدار و اتحاد ملی",
-      "month": 3,
-      "day": 23,
       "category": "observance",
       "isDayOff": false
     },
@@ -1416,15 +1389,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-5-18-0",
-      "name": "روز بزرگداشت شهدای مدافع حرم",
-      "description": "روز بزرگداشت شهدای مدافع حرم",
-      "month": 5,
-      "day": 18,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-5-21-0",
       "name": "روز حمایت از صنایع کوچک",
       "description": "روز حمایت از صنایع کوچک",
@@ -1673,15 +1637,6 @@
       "description": "روز پرچم",
       "month": 7,
       "day": 1,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-7-2-0",
-      "name": "روز بزرگداشت شهدای منا",
-      "description": "روز بزرگداشت شهدای منا",
-      "month": 7,
-      "day": 2,
       "category": "observance",
       "isDayOff": false
     },
@@ -2307,15 +2262,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-10-16-0",
-      "name": "روز شهدای دانشجو (شهادت سیدحسن علم‌الهدی و همرزمان وی در هویزه)",
-      "description": "روز شهدای دانشجو (شهادت سیدحسن علم‌الهدی و همرزمان وی در هویزه)",
-      "month": 10,
-      "day": 16,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-10-17-1",
       "name": "روز بزرگداشت خواجوی کرمانی",
       "description": "روز بزرگداشت خواجوی کرمانی",
@@ -2438,15 +2384,6 @@
       "description": "روز چهارمحال و بختیاری",
       "month": 11,
       "day": 20,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-11-29-0",
-      "name": "قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم",
-      "description": "قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم",
-      "month": 11,
-      "day": 29,
       "category": "observance",
       "isDayOff": false
     },
@@ -2867,15 +2804,6 @@
       "isDayOff": true
     },
     {
-      "id": "umm-al-banin-death",
-      "name": "وفات حضرت ام‌البنین (س)",
-      "description": "سیزدهم جمادی‌الثانی، وفات حضرت ام‌البنین (س) و روز تکریم مادران و همسران شهدا",
-      "hijriMonth": 6,
-      "hijriDay": 13,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "imam-ali-hadi-martyrdom",
       "name": "شهادت امام علی‌النقی الهادی (ع)",
       "description": "سوم رجب، شهادت امام علی‌النقی الهادی (ع)",
@@ -3043,15 +2971,6 @@
       "description": "شهادت حضرت امام زین‌العابدین علیه‌السلام",
       "hijriMonth": 1,
       "hijriDay": 12,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-ghamari-1-25-1",
-      "name": "یادروز قیام مردم سیستان به خون‌خواهی شهدای کربلا",
-      "description": "یادروز قیام مردم سیستان به خون‌خواهی شهدای کربلا",
-      "hijriMonth": 1,
-      "hijriDay": 25,
       "category": "observance",
       "isDayOff": false
     },
