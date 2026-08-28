@@ -568,6 +568,2400 @@
       "day": 26,
       "category": "observance",
       "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-2-1",
+      "name": "هجوم مأموران ستم‌شاهی پهلوی به مدرسه‌ی فیضیه‌ی قم",
+      "description": "هجوم مأموران ستم‌شاهی پهلوی به مدرسه‌ی فیضیه‌ی قم",
+      "month": 1,
+      "day": 2,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-2-2",
+      "name": "آغاز عملیات فتح‌المبین",
+      "description": "آغاز عملیات فتح‌المبین",
+      "month": 1,
+      "day": 2,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-6-0",
+      "name": "زادروز زرتشت",
+      "description": "زادروز زرتشت",
+      "month": 1,
+      "day": 6,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-7-0",
+      "name": "روز هنرهای نمایشی",
+      "description": "روز هنرهای نمایشی",
+      "month": 1,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-15-0",
+      "name": "روز ذخایر ژنتیکی و زیستی",
+      "description": "روز ذخایر ژنتیکی و زیستی",
+      "month": 1,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-18-0",
+      "name": "روز سلامتی",
+      "description": "روز سلامتی",
+      "month": 1,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-19-0",
+      "name": "شهادت آیت‌اللّه سیدمحمدباقر صدر و خواهر ایشان بنت‌الهدی به دست حکومت بعث عراق",
+      "description": "شهادت آیت‌اللّه سیدمحمدباقر صدر و خواهر ایشان بنت‌الهدی به دست حکومت بعث عراق",
+      "month": 1,
+      "day": 19,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-20-1",
+      "name": "روز هنر انقلاب اسلامی (سالروز شهادت سیدمرتضی آوینی)",
+      "description": "روز هنر انقلاب اسلامی (سالروز شهادت سیدمرتضی آوینی)",
+      "month": 1,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-21-0",
+      "name": "شهادت امیر سپهبد علی صیاد شیرازی",
+      "description": "شهادت امیر سپهبد علی صیاد شیرازی",
+      "month": 1,
+      "day": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-21-1",
+      "name": "سالروز افتتاح حساب شماره‌ی ۱۰۰ به فرمان امام خمینی (رحمة‌اللّه علیه) و تأسیس بنیاد مسکن انقلاب اسلامی",
+      "description": "سالروز افتتاح حساب شماره‌ی ۱۰۰ به فرمان امام خمینی (رحمة‌اللّه علیه) و تأسیس بنیاد مسکن انقلاب اسلامی",
+      "month": 1,
+      "day": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-26-0",
+      "name": "سالروز عملیات وعده صادق ۱ ، حمله پهپادی بسیار گسترده و موشکی از خاک ایران به رژیم جنایتکار صهیونیستی",
+      "description": "سالروز عملیات وعده صادق ۱ ، حمله پهپادی بسیار گسترده و موشکی از خاک ایران به رژیم جنایتکار صهیونیستی",
+      "month": 1,
+      "day": 26,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-29-0",
+      "name": "روز ارتش جمهوری اسلامی و نیروی زمینی",
+      "description": "روز ارتش جمهوری اسلامی و نیروی زمینی",
+      "month": 1,
+      "day": 29,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-30-0",
+      "name": "روز آزمایشگاهیان",
+      "description": "روز آزمایشگاهیان",
+      "month": 1,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-1-31-0",
+      "name": "روز گندم و نان",
+      "description": "روز گندم و نان",
+      "month": 1,
+      "day": 31,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-1-2",
+      "name": "روز شهدای ورزشکار (همزمان با روز تولد شهید ابراهیم هادی)",
+      "description": "روز شهدای ورزشکار (همزمان با روز تولد شهید ابراهیم هادی)",
+      "month": 2,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-2-0",
+      "name": "تأسیس سپاه پاسداران انقلاب اسلامی",
+      "description": "تأسیس سپاه پاسداران انقلاب اسلامی",
+      "month": 2,
+      "day": 2,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-2-1",
+      "name": "سالروز اعلام انقلاب فرهنگی",
+      "description": "سالروز اعلام انقلاب فرهنگی",
+      "month": 2,
+      "day": 2,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-2-2",
+      "name": "روز زمین پاک",
+      "description": "روز زمین پاک",
+      "month": 2,
+      "day": 2,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-3-0",
+      "name": "روز بزرگداشت شیخ بهایی",
+      "description": "روز بزرگداشت شیخ بهایی",
+      "month": 2,
+      "day": 3,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-3-1",
+      "name": "روز معماری",
+      "description": "روز معماری",
+      "month": 2,
+      "day": 3,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-3-2",
+      "name": "سالروز شهادت امیر سپهبد قرنی",
+      "description": "سالروز شهادت امیر سپهبد قرنی",
+      "month": 2,
+      "day": 3,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-5-0",
+      "name": "شکست حمله نظامی آمریکا به ایران در طبس",
+      "description": "شکست حمله نظامی آمریکا به ایران در طبس",
+      "month": 2,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-7-0",
+      "name": "روز ایمنی حمل و نقل",
+      "description": "روز ایمنی حمل و نقل",
+      "month": 2,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-9-0",
+      "name": "روز شوراها",
+      "description": "روز شوراها",
+      "month": 2,
+      "day": 9,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-10-1",
+      "name": "آغاز عملیات بیت‌المقدس",
+      "description": "آغاز عملیات بیت‌المقدس",
+      "month": 2,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-15-0",
+      "name": "روز بزرگداشت شیخ صدوق",
+      "description": "روز بزرگداشت شیخ صدوق",
+      "month": 2,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-15-1",
+      "name": "روز صنعت بتن آماده",
+      "description": "روز صنعت بتن آماده",
+      "month": 2,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-15-2",
+      "name": "روز صنعت تهویه مطبوع",
+      "description": "روز صنعت تهویه مطبوع",
+      "month": 2,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-18-0",
+      "name": "روز بیماری‌های خاص و صعب‌العلاج",
+      "description": "روز بیماری‌های خاص و صعب‌العلاج",
+      "month": 2,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-19-0",
+      "name": "روز بزرگداشت شیخ کلینی",
+      "description": "روز بزرگداشت شیخ کلینی",
+      "month": 2,
+      "day": 19,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-19-1",
+      "name": "روز اسناد ملی و میراث مکتوب",
+      "description": "روز اسناد ملی و میراث مکتوب",
+      "month": 2,
+      "day": 19,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-20-0",
+      "name": "روز گل محمدی و گلاب",
+      "description": "روز گل محمدی و گلاب",
+      "month": 2,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-22-0",
+      "name": "روز مشاغل خانگی و تولید خانواده‌محور",
+      "description": "روز مشاغل خانگی و تولید خانواده‌محور",
+      "month": 2,
+      "day": 22,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-24-0",
+      "name": "لغو امتیاز تنباکو به فتوای آیت‌اللّه میرزا حسن شیرازی",
+      "description": "لغو امتیاز تنباکو به فتوای آیت‌اللّه میرزا حسن شیرازی",
+      "month": 2,
+      "day": 24,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-27-0",
+      "name": "روز ارتباطات و روابط عمومی",
+      "description": "روز ارتباطات و روابط عمومی",
+      "month": 2,
+      "day": 27,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-28-0",
+      "name": "روز بزرگداشت حکیم عمر خیام",
+      "description": "روز بزرگداشت حکیم عمر خیام",
+      "month": 2,
+      "day": 28,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-31-0",
+      "name": "روز اهدای عضو، اهدای زندگی",
+      "description": "روز اهدای عضو، اهدای زندگی",
+      "month": 2,
+      "day": 31,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-2-31-1",
+      "name": "روز بوم‌گردی",
+      "description": "روز بوم‌گردی",
+      "month": 2,
+      "day": 31,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-1-1",
+      "name": "روز بزرگداشت ملّاصدرا (صدرالمتألهین)",
+      "description": "روز بزرگداشت ملّاصدرا (صدرالمتألهین)",
+      "month": 3,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-3-0",
+      "name": "فتح خرمشهر در عملیات بیت‌المقدس و روز مقاومت، ایثار و پیروزی",
+      "description": "فتح خرمشهر در عملیات بیت‌المقدس و روز مقاومت، ایثار و پیروزی",
+      "month": 3,
+      "day": 3,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-4-0",
+      "name": "روز دزفول",
+      "description": "روز دزفول",
+      "month": 3,
+      "day": 4,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-4-1",
+      "name": "روز مقاومت و پایداری",
+      "description": "روز مقاومت و پایداری",
+      "month": 3,
+      "day": 4,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-5-0",
+      "name": "روز نسیم مهر (روز حمایت از خانواده زندانیان)",
+      "description": "روز نسیم مهر (روز حمایت از خانواده زندانیان)",
+      "month": 3,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-7-0",
+      "name": "افتتاح اولین دوره‌ی مجلس شورای اسلامی",
+      "description": "افتتاح اولین دوره‌ی مجلس شورای اسلامی",
+      "month": 3,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-7-1",
+      "name": "روز نقشه‌برداری",
+      "description": "روز نقشه‌برداری",
+      "month": 3,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-8-0",
+      "name": "روز مشاور املاک",
+      "description": "روز مشاور املاک",
+      "month": 3,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-14-1",
+      "name": "انتخاب حضرت آیت‌اللّه امام خامنه‌ای به رهبری",
+      "description": "انتخاب حضرت آیت‌اللّه امام خامنه‌ای به رهبری",
+      "month": 3,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-15-1",
+      "name": "زندانی شدن حضرت امام خمینی (رحمة‌اللّه علیه) به دست مأموران ستم‌شاهی پهلوی",
+      "description": "زندانی شدن حضرت امام خمینی (رحمة‌اللّه علیه) به دست مأموران ستم‌شاهی پهلوی",
+      "month": 3,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-20-0",
+      "name": "روز جهانی صنایع دستی - روز ملّی فرش",
+      "description": "روز جهانی صنایع دستی - روز ملّی فرش",
+      "month": 3,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-20-1",
+      "name": "شهادت آیت‌اللّه سعیدی به دست مأموران ستم‌شاهی پهلوی",
+      "description": "شهادت آیت‌اللّه سعیدی به دست مأموران ستم‌شاهی پهلوی",
+      "month": 3,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-23-0",
+      "name": "سالروز آغاز عملیات وعده صادق ۳ و جنگ ۱۲ روزه در انتقام شهادت سرداران، دانشمندان و مردم ایران در حمله رژیم صهیونیستی",
+      "description": "سالروز آغاز عملیات وعده صادق ۳ و جنگ ۱۲ روزه در انتقام شهادت سرداران، دانشمندان و مردم ایران در حمله رژیم صهیونیستی",
+      "month": 3,
+      "day": 23,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-23-1",
+      "name": "روز شهدای اقتدار و اتحاد ملی",
+      "description": "روز شهدای اقتدار و اتحاد ملی",
+      "month": 3,
+      "day": 23,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-26-0",
+      "name": "شهادت سربازان دلیر اسلام، بخارایی، امانی، صفار هرندی و نیک‌نژاد",
+      "description": "شهادت سربازان دلیر اسلام، بخارایی، امانی، صفار هرندی و نیک‌نژاد",
+      "month": 3,
+      "day": 26,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-27-0",
+      "name": "روز جهاد کشاورزی (تشکیل جهاد سازندگی به فرمان حضرت امام خمینی رحمة‌اللّه علیه)",
+      "description": "روز جهاد کشاورزی (تشکیل جهاد سازندگی به فرمان حضرت امام خمینی رحمة‌اللّه علیه)",
+      "month": 3,
+      "day": 27,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-29-0",
+      "name": "درگذشت دکتر علی شریعتی",
+      "description": "درگذشت دکتر علی شریعتی",
+      "month": 3,
+      "day": 29,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-30-0",
+      "name": "شهادت زائران حرم رضوی علیه‌السلام به دست ایادی آمریکا در روز عاشورا",
+      "description": "شهادت زائران حرم رضوی علیه‌السلام به دست ایادی آمریکا در روز عاشورا",
+      "month": 3,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-30-1",
+      "name": "روز صنعت موتورسیکلت",
+      "description": "روز صنعت موتورسیکلت",
+      "month": 3,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-31-0",
+      "name": "شهادت دکتر مصطفی چمران",
+      "description": "شهادت دکتر مصطفی چمران",
+      "month": 3,
+      "day": 31,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-3-31-1",
+      "name": "روز بسیج استادان",
+      "description": "روز بسیج استادان",
+      "month": 3,
+      "day": 31,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-1-0",
+      "name": "روز تبلیغ و اطلاع‌رسانی دینی (سالروز صدور فرمان امام خمینی رحمة‌اللّه علیه مبنی بر تأسیس سازمان تبلیغات اسلامی)",
+      "description": "روز تبلیغ و اطلاع‌رسانی دینی (سالروز صدور فرمان امام خمینی رحمة‌اللّه علیه مبنی بر تأسیس سازمان تبلیغات اسلامی)",
+      "month": 4,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-1-1",
+      "name": "روز اصناف",
+      "description": "روز اصناف",
+      "month": 4,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-5-0",
+      "name": "روز صنعت ابزارآلات",
+      "description": "روز صنعت ابزارآلات",
+      "month": 4,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-6-0",
+      "name": "روز عینک‌سازی و بینایی‌سنجی",
+      "description": "روز عینک‌سازی و بینایی‌سنجی",
+      "month": 4,
+      "day": 6,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-7-0",
+      "name": "شهادت مظلومانه‌ی آیت‌اللّه دکتر بهشتی و ۷۲ تن از یاران امام با انفجار بمب به دست منافقان در دفتر مرکزی حزب جمهوری اسلامی",
+      "description": "شهادت مظلومانه‌ی آیت‌اللّه دکتر بهشتی و ۷۲ تن از یاران امام با انفجار بمب به دست منافقان در دفتر مرکزی حزب جمهوری اسلامی",
+      "month": 4,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-7-1",
+      "name": "روز قوه‌ی قضائیه",
+      "description": "روز قوه‌ی قضائیه",
+      "month": 4,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-7-2",
+      "name": "سالروز بمباران شیمیایی شهر سردشت",
+      "description": "سالروز بمباران شیمیایی شهر سردشت",
+      "month": 4,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-8-0",
+      "name": "روز مبارزه با سلاح‌های شیمیایی و میکروبی",
+      "description": "روز مبارزه با سلاح‌های شیمیایی و میکروبی",
+      "month": 4,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-10-0",
+      "name": "روز صنعت و معدن",
+      "description": "روز صنعت و معدن",
+      "month": 4,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-10-1",
+      "name": "روز دیپلماسی فرهنگی و تعامل با جهان",
+      "description": "روز دیپلماسی فرهنگی و تعامل با جهان",
+      "month": 4,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-10-2",
+      "name": "یادروز ورود امام رضا علیه‌السلام به نیشابور و نقل حدیث سلسلة‌الذهب",
+      "description": "یادروز ورود امام رضا علیه‌السلام به نیشابور و نقل حدیث سلسلة‌الذهب",
+      "month": 4,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-10-3",
+      "name": "روز آزادسازی شهر مهران",
+      "description": "روز آزادسازی شهر مهران",
+      "month": 4,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-10-4",
+      "name": "روز بزرگداشت صائب تبریزی",
+      "description": "روز بزرگداشت صائب تبریزی",
+      "month": 4,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-11-0",
+      "name": "شهادت آیت‌اللّه صدوقی چهارمین شهید محراب به دست منافقان",
+      "description": "شهادت آیت‌اللّه صدوقی چهارمین شهید محراب به دست منافقان",
+      "month": 4,
+      "day": 11,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-12-0",
+      "name": "حمله‌ی ددمنشانه‌ی ناوگان آمریکای جنایتکار به هواپیمای مسافربری جمهوری اسلامی ایران",
+      "description": "حمله‌ی ددمنشانه‌ی ناوگان آمریکای جنایتکار به هواپیمای مسافربری جمهوری اسلامی ایران",
+      "month": 4,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-12-1",
+      "name": "روز افشای حقوق بشر آمریکایی",
+      "description": "روز افشای حقوق بشر آمریکایی",
+      "month": 4,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-12-2",
+      "name": "روز بزرگداشت علامه امینی",
+      "description": "روز بزرگداشت علامه امینی",
+      "month": 4,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-12-3",
+      "name": "روز حمایت از تولید ملّی و مبارزه با قاچاق کالا",
+      "description": "روز حمایت از تولید ملّی و مبارزه با قاچاق کالا",
+      "month": 4,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-12-4",
+      "name": "روز خیاط، صنعت نساجی و پوشاک",
+      "description": "روز خیاط، صنعت نساجی و پوشاک",
+      "month": 4,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-14-0",
+      "name": "روز قلم",
+      "description": "روز قلم",
+      "month": 4,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-14-1",
+      "name": "روز شهرداری و دهیاری",
+      "description": "روز شهرداری و دهیاری",
+      "month": 4,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-16-0",
+      "name": "روز مالیات",
+      "description": "روز مالیات",
+      "month": 4,
+      "day": 16,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-18-0",
+      "name": "روز ادبیات کودکان و نوجوانان",
+      "description": "روز ادبیات کودکان و نوجوانان",
+      "month": 4,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-18-1",
+      "name": "کشف توطئه‌ی آمریکایی در پایگاه هوایی شهید نوژه (کودتای نافرجام نقاب)",
+      "description": "کشف توطئه‌ی آمریکایی در پایگاه هوایی شهید نوژه (کودتای نافرجام نقاب)",
+      "month": 4,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-18-2",
+      "name": "روز صنعت قیر و آسفالت",
+      "description": "روز صنعت قیر و آسفالت",
+      "month": 4,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-21-0",
+      "name": "روز عفاف و حجاب",
+      "description": "روز عفاف و حجاب",
+      "month": 4,
+      "day": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-21-1",
+      "name": "حمله به مسجد گوهرشاد و کشتار مردم به دست رضاخان",
+      "description": "حمله به مسجد گوهرشاد و کشتار مردم به دست رضاخان",
+      "month": 4,
+      "day": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-22-0",
+      "name": "روز بزرگداشت خوارزمی - روز فناوری اطلاعات",
+      "description": "روز بزرگداشت خوارزمی - روز فناوری اطلاعات",
+      "month": 4,
+      "day": 22,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-23-0",
+      "name": "گشایش نخستین مجلس خبرگان رهبری",
+      "description": "گشایش نخستین مجلس خبرگان رهبری",
+      "month": 4,
+      "day": 23,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-23-1",
+      "name": "سالروز اشتباه برجام، مایه‌ی عبرت آیندگان",
+      "description": "سالروز اشتباه برجام، مایه‌ی عبرت آیندگان",
+      "month": 4,
+      "day": 23,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-25-0",
+      "name": "روز بهزیستی و تأمین اجتماعی",
+      "description": "روز بهزیستی و تأمین اجتماعی",
+      "month": 4,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-26-0",
+      "name": "سالروز تأسیس نهاد شورای نگهبان",
+      "description": "سالروز تأسیس نهاد شورای نگهبان",
+      "month": 4,
+      "day": 26,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-27-0",
+      "name": "اعلام پذیرش قطعنامه‌ی ۵۹۸ شورای امنیت از سوی ایران",
+      "description": "اعلام پذیرش قطعنامه‌ی ۵۹۸ شورای امنیت از سوی ایران",
+      "month": 4,
+      "day": 27,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-30-0",
+      "name": "روز بزرگداشت آیت‌اللّه سید ابوالقاسم کاشانی",
+      "description": "روز بزرگداشت آیت‌اللّه سید ابوالقاسم کاشانی",
+      "month": 4,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-4-30-1",
+      "name": "روز خلبان",
+      "description": "روز خلبان",
+      "month": 4,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-4-0",
+      "name": "روز بزرگداشت شیخ صفی‌الدین اردبیلی",
+      "description": "روز بزرگداشت شیخ صفی‌الدین اردبیلی",
+      "month": 5,
+      "day": 4,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-5-0",
+      "name": "سالروز عملیات افتخار‌آفرین مرصاد",
+      "description": "سالروز عملیات افتخار‌آفرین مرصاد",
+      "month": 5,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-5-1",
+      "name": "اقامه‌ی اوّلین نماز جمعه با حکم امام خمینی (ره)",
+      "description": "اقامه‌ی اوّلین نماز جمعه با حکم امام خمینی (ره)",
+      "month": 5,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-6-0",
+      "name": "روز کارآفرینی و آموزش‌های فنّی‌و‌حرفه‌ای",
+      "description": "روز کارآفرینی و آموزش‌های فنّی‌و‌حرفه‌ای",
+      "month": 5,
+      "day": 6,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-8-0",
+      "name": "روز بزرگداشت شیخ شهاب‌الدین سهروردی (شیخ اشراق)",
+      "description": "روز بزرگداشت شیخ شهاب‌الدین سهروردی (شیخ اشراق)",
+      "month": 5,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-8-1",
+      "name": "روز زنجان",
+      "description": "روز زنجان",
+      "month": 5,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-9-0",
+      "name": "روز اهدای خون",
+      "description": "روز اهدای خون",
+      "month": 5,
+      "day": 9,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-11-0",
+      "name": "شهادت آیت‌اللّه شیخ فضل‌اللّه نوری",
+      "description": "شهادت آیت‌اللّه شیخ فضل‌اللّه نوری",
+      "month": 5,
+      "day": 11,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-14-0",
+      "name": "صدور فرمان مشروطیت",
+      "description": "صدور فرمان مشروطیت",
+      "month": 5,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-14-1",
+      "name": "روز حقوق بشر اسلامی و کرامت انسانی",
+      "description": "روز حقوق بشر اسلامی و کرامت انسانی",
+      "month": 5,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-15-0",
+      "name": "انفجار بمب‌های اتمی آمریکای جنایتکار در هیروشیما و ناکازاکی (۶ و ۹ اوت ۱۹۴۵ میلادی) با صدهاهزار کشته",
+      "description": "انفجار بمب‌های اتمی آمریکای جنایتکار در هیروشیما و ناکازاکی (۶ و ۹ اوت ۱۹۴۵ میلادی) با صدهاهزار کشته",
+      "month": 5,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-15-1",
+      "name": "سالروز شهادت امیر سرلشکر خلبان عباس بابایی",
+      "description": "سالروز شهادت امیر سرلشکر خلبان عباس بابایی",
+      "month": 5,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-16-0",
+      "name": "تشکیل جهاد دانشگاهی",
+      "description": "تشکیل جهاد دانشگاهی",
+      "month": 5,
+      "day": 16,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-18-0",
+      "name": "روز بزرگداشت شهدای مدافع حرم",
+      "description": "روز بزرگداشت شهدای مدافع حرم",
+      "month": 5,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-21-0",
+      "name": "روز حمایت از صنایع کوچک",
+      "description": "روز حمایت از صنایع کوچک",
+      "month": 5,
+      "day": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-22-0",
+      "name": "روز تشکّل‌ها و مشارکت‌های اجتماعی",
+      "description": "روز تشکّل‌ها و مشارکت‌های اجتماعی",
+      "month": 5,
+      "day": 22,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-23-0",
+      "name": "روز مقاومت اسلامی",
+      "description": "روز مقاومت اسلامی",
+      "month": 5,
+      "day": 23,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-26-0",
+      "name": "آغاز بازگشت آزادگان به میهن اسلامی",
+      "description": "آغاز بازگشت آزادگان به میهن اسلامی",
+      "month": 5,
+      "day": 26,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-28-0",
+      "name": "کودتای آمریکا برای بازگرداندن شاه فراری",
+      "description": "کودتای آمریکا برای بازگرداندن شاه فراری",
+      "month": 5,
+      "day": 28,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-28-1",
+      "name": "گشایش مجلس خبرگان برای بررسی نهایی قانون اساسی جمهوری اسلامی ایران",
+      "description": "گشایش مجلس خبرگان برای بررسی نهایی قانون اساسی جمهوری اسلامی ایران",
+      "month": 5,
+      "day": 28,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-30-0",
+      "name": "روز بزرگداشت علامه مجلسی",
+      "description": "روز بزرگداشت علامه مجلسی",
+      "month": 5,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-31-0",
+      "name": "روز صنعت دفاعی",
+      "description": "روز صنعت دفاعی",
+      "month": 5,
+      "day": 31,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-5-31-1",
+      "name": "روز عسل",
+      "description": "روز عسل",
+      "month": 5,
+      "day": 31,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-1-2",
+      "name": "روز همدان",
+      "description": "روز همدان",
+      "month": 6,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-2-0",
+      "name": "آغاز هفته‌ی دولت",
+      "description": "آغاز هفته‌ی دولت",
+      "month": 6,
+      "day": 2,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-2-1",
+      "name": "شهادت سید‌علی اندرزگو (در روز ۱۹ ماه مبارک رمضان)",
+      "description": "شهادت سید‌علی اندرزگو (در روز ۱۹ ماه مبارک رمضان)",
+      "month": 6,
+      "day": 2,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-3-0",
+      "name": "اِشغال ایران توسّط متّفقین و فرار رضاخان",
+      "description": "اِشغال ایران توسّط متّفقین و فرار رضاخان",
+      "month": 6,
+      "day": 3,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-4-0",
+      "name": "روز کارمند",
+      "description": "روز کارمند",
+      "month": 6,
+      "day": 4,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-5-2",
+      "name": "روز کُشتی",
+      "description": "روز کُشتی",
+      "month": 6,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-8-0",
+      "name": "روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری به دست منافقان و شهادت مظلومانه‌ی شهیدان رجایی و باهنر)",
+      "description": "روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری به دست منافقان و شهادت مظلومانه‌ی شهیدان رجایی و باهنر)",
+      "month": 6,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-10-0",
+      "name": "روز بانکداری اسلامی (سالروز تصویب قانون عملیات بانکی بدون ربا)",
+      "description": "روز بانکداری اسلامی (سالروز تصویب قانون عملیات بانکی بدون ربا)",
+      "month": 6,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-10-1",
+      "name": "روز تشکیل قرارگاه پدافند هوایی حضرت خاتم‌الانبیا صلی اللّه علیه و آله",
+      "description": "روز تشکیل قرارگاه پدافند هوایی حضرت خاتم‌الانبیا صلی اللّه علیه و آله",
+      "month": 6,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-11-0",
+      "name": "روز صنعت چاپ",
+      "description": "روز صنعت چاپ",
+      "month": 6,
+      "day": 11,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-12-0",
+      "name": "روز مبارزه بااستعمار انگلیس (سالروز شهادت رئیسعلی دلواری - ۱۲۹۴ هـ.ش)",
+      "description": "روز مبارزه بااستعمار انگلیس (سالروز شهادت رئیسعلی دلواری - ۱۲۹۴ هـ.ش)",
+      "month": 6,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-12-1",
+      "name": "روز بهوَرز",
+      "description": "روز بهوَرز",
+      "month": 6,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-13-3",
+      "name": "روز مردم‌شناسی",
+      "description": "روز مردم‌شناسی",
+      "month": 6,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-13-4",
+      "name": "روز حرکت‌های جهادی و امداد مردمی - سالروز زلزله‌ی فردوس",
+      "description": "روز حرکت‌های جهادی و امداد مردمی - سالروز زلزله‌ی فردوس",
+      "month": 6,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-14-0",
+      "name": "شهادت آیت‌اللّه قدّوسی و سرتیپ وحید دستجردی",
+      "description": "شهادت آیت‌اللّه قدّوسی و سرتیپ وحید دستجردی",
+      "month": 6,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-17-0",
+      "name": "قیام ۱۷ شهریور و کشتار جمعی از مردم به‌دست مأموران ستم‌شاهی پهلوی",
+      "description": "قیام ۱۷ شهریور و کشتار جمعی از مردم به‌دست مأموران ستم‌شاهی پهلوی",
+      "month": 6,
+      "day": 17,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-19-0",
+      "name": "وفات آیت‌اللّه سیدمحمود طالقانی اوّلین امام جمعه‌ی تهران",
+      "description": "وفات آیت‌اللّه سیدمحمود طالقانی اوّلین امام جمعه‌ی تهران",
+      "month": 6,
+      "day": 19,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-20-0",
+      "name": "شهادت دومین شهید محراب آیت‌اللّه مدنی به دست منافقان",
+      "description": "شهادت دومین شهید محراب آیت‌اللّه مدنی به دست منافقان",
+      "month": 6,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-25-0",
+      "name": "روز کفاش، صنعت چرم و کفش",
+      "description": "روز کفاش، صنعت چرم و کفش",
+      "month": 6,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-25-1",
+      "name": "روز خرما",
+      "description": "روز خرما",
+      "month": 6,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-31-0",
+      "name": "آغاز جنگ تحمیلی",
+      "description": "آغاز جنگ تحمیلی",
+      "month": 6,
+      "day": 31,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-6-31-1",
+      "name": "آغاز هفته‌ی دفاع مقدّس",
+      "description": "آغاز هفته‌ی دفاع مقدّس",
+      "month": 6,
+      "day": 31,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-1-0",
+      "name": "روز پرچم",
+      "description": "روز پرچم",
+      "month": 7,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-2-0",
+      "name": "روز بزرگداشت شهدای منا",
+      "description": "روز بزرگداشت شهدای منا",
+      "month": 7,
+      "day": 2,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-4-0",
+      "name": "روز سرباز",
+      "description": "روز سرباز",
+      "month": 7,
+      "day": 4,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-5-0",
+      "name": "شکست حصر آبادان در عملیات ثامن‌الائمه علیه‌السلام",
+      "description": "شکست حصر آبادان در عملیات ثامن‌الائمه علیه‌السلام",
+      "month": 7,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-6-0",
+      "name": "سالروز شهادت سید حسن نصرالله، دبیرکل حزب‌الله لبنان و شهید راه آزادی قدس، با بمباران توسط رژیم صهیونیستی و امریکا",
+      "description": "سالروز شهادت سید حسن نصرالله، دبیرکل حزب‌الله لبنان و شهید راه آزادی قدس، با بمباران توسط رژیم صهیونیستی و امریکا",
+      "month": 7,
+      "day": 6,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-7-0",
+      "name": "روز بزرگداشت فرماندهان شهید دفاع مقدّس",
+      "description": "روز بزرگداشت فرماندهان شهید دفاع مقدّس",
+      "month": 7,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-7-1",
+      "name": "شهادت سرداران اسلام: فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا",
+      "description": "شهادت سرداران اسلام: فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا",
+      "month": 7,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-7-2",
+      "name": "روز آتش‌نشانی و ایمنی",
+      "description": "روز آتش‌نشانی و ایمنی",
+      "month": 7,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-7-3",
+      "name": "روز بزرگداشت شمس",
+      "description": "روز بزرگداشت شمس",
+      "month": 7,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-8-0",
+      "name": "روز بزرگداشت مولوی",
+      "description": "روز بزرگداشت مولوی",
+      "month": 7,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-10-0",
+      "name": "سالروز عملیات وعده صادق ۲ ، حمله گسترده و بسیار شدید موشکی از خاک ایران به رژیم اشغالگر صهیونیستی",
+      "description": "سالروز عملیات وعده صادق ۲ ، حمله گسترده و بسیار شدید موشکی از خاک ایران به رژیم اشغالگر صهیونیستی",
+      "month": 7,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-10-1",
+      "name": "روز نخبگان",
+      "description": "روز نخبگان",
+      "month": 7,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-13-0",
+      "name": "هجرت حضرت امام خمینی (رحمة‌اللّه علیه) از عراق به پاریس",
+      "description": "هجرت حضرت امام خمینی (رحمة‌اللّه علیه) از عراق به پاریس",
+      "month": 7,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-13-1",
+      "name": "روز نیروی انتظامی",
+      "description": "روز نیروی انتظامی",
+      "month": 7,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-14-0",
+      "name": "روز دامپزشکی",
+      "description": "روز دامپزشکی",
+      "month": 7,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-15-0",
+      "name": "روز روستا و عشایر",
+      "description": "روز روستا و عشایر",
+      "month": 7,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-23-0",
+      "name": "شهادت پنجمین شهید محراب آیت‌اللّه اشرفی اصفهانی به دست منافقان",
+      "description": "شهادت پنجمین شهید محراب آیت‌اللّه اشرفی اصفهانی به دست منافقان",
+      "month": 7,
+      "day": 23,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-24-0",
+      "name": "روز ملی پارالمپیک",
+      "description": "روز ملی پارالمپیک",
+      "month": 7,
+      "day": 24,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-24-1",
+      "name": "روز پیوند اولیا و مربیان",
+      "description": "روز پیوند اولیا و مربیان",
+      "month": 7,
+      "day": 24,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-24-2",
+      "name": "سالروز واقعه‌ی به‌آتش‌کشیدن مسجد جامع شهر کرمان به دست دژخیمان حکومت پهلوی",
+      "description": "سالروز واقعه‌ی به‌آتش‌کشیدن مسجد جامع شهر کرمان به دست دژخیمان حکومت پهلوی",
+      "month": 7,
+      "day": 24,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-24-3",
+      "name": "روز صنعت آسانسور و پله برقی",
+      "description": "روز صنعت آسانسور و پله برقی",
+      "month": 7,
+      "day": 24,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-25-0",
+      "name": "روز نسل‌کشی کودکان و زنان فلسطینی",
+      "description": "روز نسل‌کشی کودکان و زنان فلسطینی",
+      "month": 7,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-26-0",
+      "name": "روز تربیت‌بدنی و ورزش",
+      "description": "روز تربیت‌بدنی و ورزش",
+      "month": 7,
+      "day": 26,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-7-29-0",
+      "name": "روز صادرات",
+      "description": "روز صادرات",
+      "month": 7,
+      "day": 29,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-1-0",
+      "name": "روز بزرگداشت ابوالفضل بیهقی",
+      "description": "روز بزرگداشت ابوالفضل بیهقی",
+      "month": 8,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-1-1",
+      "name": "شهادت مظلومانه‌ی آیت‌اللّه حاج سید مصطفی خمینی",
+      "description": "شهادت مظلومانه‌ی آیت‌اللّه حاج سید مصطفی خمینی",
+      "month": 8,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-1-2",
+      "name": "روز آمار و برنامه‌ریزی",
+      "description": "روز آمار و برنامه‌ریزی",
+      "month": 8,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-1-3",
+      "name": "روز صنعت ساختمان",
+      "description": "روز صنعت ساختمان",
+      "month": 8,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-4-0",
+      "name": "اعتراض و افشاگری حضرت امام خمینی (ره) علیه پذیرش کاپیتولاسیون",
+      "description": "اعتراض و افشاگری حضرت امام خمینی (ره) علیه پذیرش کاپیتولاسیون",
+      "month": 8,
+      "day": 4,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-5-0",
+      "name": "روز زعفران",
+      "description": "روز زعفران",
+      "month": 8,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-7-0",
+      "name": "روز انار",
+      "description": "روز انار",
+      "month": 8,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-8-2",
+      "name": "روز پدافند غیرعامل",
+      "description": "روز پدافند غیرعامل",
+      "month": 8,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-8-3",
+      "name": "روز محیط‌بان",
+      "description": "روز محیط‌بان",
+      "month": 8,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-10-0",
+      "name": "شهادت آیت‌اللّه قاضی طباطبایی، اوّلین شهید محراب به دست منافقان",
+      "description": "شهادت آیت‌اللّه قاضی طباطبایی، اوّلین شهید محراب به دست منافقان",
+      "month": 8,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-13-0",
+      "name": "تسخیر لانه‌ی جاسوسی آمریکا به دست دانشجویان پیرو خط امام",
+      "description": "تسخیر لانه‌ی جاسوسی آمریکا به دست دانشجویان پیرو خط امام",
+      "month": 8,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-13-1",
+      "name": "روز ملی مبارزه با استکبار جهانی",
+      "description": "روز ملی مبارزه با استکبار جهانی",
+      "month": 8,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-13-3",
+      "name": "تبعید حضرت امام خمینی (رحمة‌اللّه علیه) از ایران به ترکیه",
+      "description": "تبعید حضرت امام خمینی (رحمة‌اللّه علیه) از ایران به ترکیه",
+      "month": 8,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-14-0",
+      "name": "روز فرهنگ عمومی",
+      "description": "روز فرهنگ عمومی",
+      "month": 8,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-14-1",
+      "name": "روز مازندران",
+      "description": "روز مازندران",
+      "month": 8,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-18-0",
+      "name": "روز کیفیت",
+      "description": "روز کیفیت",
+      "month": 8,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-21-0",
+      "name": "روز هوافضا",
+      "description": "روز هوافضا",
+      "month": 8,
+      "day": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-24-1",
+      "name": "روز بزرگداشت آیت‌اللّه علامه سیدمحمّدحسین طباطبایی",
+      "description": "روز بزرگداشت آیت‌اللّه علامه سیدمحمّدحسین طباطبایی",
+      "month": 8,
+      "day": 24,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-25-0",
+      "name": "روز اصفهان",
+      "description": "روز اصفهان",
+      "month": 8,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-25-1",
+      "name": "روز صنعت نوشت‌افزار",
+      "description": "روز صنعت نوشت‌افزار",
+      "month": 8,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-26-0",
+      "name": "سالروز آزادسازی سوسنگرد",
+      "description": "سالروز آزادسازی سوسنگرد",
+      "month": 8,
+      "day": 26,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-30-0",
+      "name": "روز قهرمان ملّی",
+      "description": "روز قهرمان ملّی",
+      "month": 8,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-8-30-1",
+      "name": "روز بزرگداشت ابونصر فارابی - روز حکمت و فلسفه",
+      "description": "روز بزرگداشت ابونصر فارابی - روز حکمت و فلسفه",
+      "month": 8,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-1-0",
+      "name": "روز صنعت سرب و روی",
+      "description": "روز صنعت سرب و روی",
+      "month": 9,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-4-0",
+      "name": "روز زیتون",
+      "description": "روز زیتون",
+      "month": 9,
+      "day": 4,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-5-0",
+      "name": "روزبسیج مستضعفان (تشکیل بسیج مستضعفان به فرمان حضرت امام خمینی رحمة‌اللّه علیه)",
+      "description": "روزبسیج مستضعفان (تشکیل بسیج مستضعفان به فرمان حضرت امام خمینی رحمة‌اللّه علیه)",
+      "month": 9,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-5-1",
+      "name": "سالروز قیام مردم گرگان",
+      "description": "سالروز قیام مردم گرگان",
+      "month": 9,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-7-0",
+      "name": "روز نیروی دریایی",
+      "description": "روز نیروی دریایی",
+      "month": 9,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-7-1",
+      "name": "روز نوآوری و فناوری ایران ساخت (همزمان با سالروز شهادت دکتر محسن فخری زاده در سال ۱۳۹۹)",
+      "description": "روز نوآوری و فناوری ایران ساخت (همزمان با سالروز شهادت دکتر محسن فخری زاده در سال ۱۳۹۹)",
+      "month": 9,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-9-0",
+      "name": "روز بزرگداشت شیخ مفید",
+      "description": "روز بزرگداشت شیخ مفید",
+      "month": 9,
+      "day": 9,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-9-1",
+      "name": "روز جزایر سه‌گانه‌ی خلیج فارس (بوموسی، تنب بزرگ و تنب کوچک)",
+      "description": "روز جزایر سه‌گانه‌ی خلیج فارس (بوموسی، تنب بزرگ و تنب کوچک)",
+      "month": 9,
+      "day": 9,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-10-0",
+      "name": "شهادت آیت‌اللّه سید‌حسن مدرّس و روز مجلس",
+      "description": "شهادت آیت‌اللّه سید‌حسن مدرّس و روز مجلس",
+      "month": 9,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-11-0",
+      "name": "شهادت میرزا‌کوچک‌خان جنگلی",
+      "description": "شهادت میرزا‌کوچک‌خان جنگلی",
+      "month": 9,
+      "day": 11,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-12-0",
+      "name": "روز قانون اساسی جمهوری اسلامی ایران (تصویب قانون اساسی جمهوری اسلامی ایران)",
+      "description": "روز قانون اساسی جمهوری اسلامی ایران (تصویب قانون اساسی جمهوری اسلامی ایران)",
+      "month": 9,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-13-0",
+      "name": "روز بیمه",
+      "description": "روز بیمه",
+      "month": 9,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-15-0",
+      "name": "روز حسابدار",
+      "description": "روز حسابدار",
+      "month": 9,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-18-0",
+      "name": "معرّفی عراق به عنوان مسئول و آغازگر جنگ از سوی سازمان ملل",
+      "description": "معرّفی عراق به عنوان مسئول و آغازگر جنگ از سوی سازمان ملل",
+      "month": 9,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-18-1",
+      "name": "روز سد و نیروگاه برق آبی",
+      "description": "روز سد و نیروگاه برق آبی",
+      "month": 9,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-19-0",
+      "name": "تشکیل شورای عالی انقلاب فرهنگی به فرمان حضرت امام خمینی (رحمة‌اللّه علیه)",
+      "description": "تشکیل شورای عالی انقلاب فرهنگی به فرمان حضرت امام خمینی (رحمة‌اللّه علیه)",
+      "month": 9,
+      "day": 19,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-20-0",
+      "name": "شهادت آیت‌اللّه دستغیب، سومین شهید محراب به دست منافقان",
+      "description": "شهادت آیت‌اللّه دستغیب، سومین شهید محراب به دست منافقان",
+      "month": 9,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-22-0",
+      "name": "روز صنعت مس",
+      "description": "روز صنعت مس",
+      "month": 9,
+      "day": 22,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-25-0",
+      "name": "روز پژوهش",
+      "description": "روز پژوهش",
+      "month": 9,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-26-0",
+      "name": "روز حمل‌و‌نقل و رانندگان",
+      "description": "روز حمل‌و‌نقل و رانندگان",
+      "month": 9,
+      "day": 26,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-27-0",
+      "name": "شهادت آیت‌اللّه دکتر محمّد مفتّح",
+      "description": "شهادت آیت‌اللّه دکتر محمّد مفتّح",
+      "month": 9,
+      "day": 27,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-27-1",
+      "name": "روز وحدت حوزه و دانشگاه",
+      "description": "روز وحدت حوزه و دانشگاه",
+      "month": 9,
+      "day": 27,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-27-2",
+      "name": "روز جهان عاری از خشونت و افراطی‌گری",
+      "description": "روز جهان عاری از خشونت و افراطی‌گری",
+      "month": 9,
+      "day": 27,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-9-29-0",
+      "name": "روز تجلیل از شهید تندگویان",
+      "description": "روز تجلیل از شهید تندگویان",
+      "month": 9,
+      "day": 29,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-1-0",
+      "name": "روز آرایشگر",
+      "description": "روز آرایشگر",
+      "month": 10,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-3-0",
+      "name": "روز ثبت‌احوال",
+      "description": "روز ثبت‌احوال",
+      "month": 10,
+      "day": 3,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-4-0",
+      "name": "روز بزرگداشت رودکی",
+      "description": "روز بزرگداشت رودکی",
+      "month": 10,
+      "day": 4,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-5-0",
+      "name": "روز ایمنی در برابر زلزله و کاهش اثرات بلایای طبیعی",
+      "description": "روز ایمنی در برابر زلزله و کاهش اثرات بلایای طبیعی",
+      "month": 10,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-6-0",
+      "name": "روز دفاتر اسناد رسمی",
+      "description": "روز دفاتر اسناد رسمی",
+      "month": 10,
+      "day": 6,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-7-0",
+      "name": "سالروز تشکیل نهضت سوادآموزی به فرمان حضرت امام خمینی (رحمة‌اللّه علیه)",
+      "description": "سالروز تشکیل نهضت سوادآموزی به فرمان حضرت امام خمینی (رحمة‌اللّه علیه)",
+      "month": 10,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-7-1",
+      "name": "شهادت آیت‌اللّه حسین غفّاری به دست مأموران ستم‌شاهی پهلوی",
+      "description": "شهادت آیت‌اللّه حسین غفّاری به دست مأموران ستم‌شاهی پهلوی",
+      "month": 10,
+      "day": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-8-0",
+      "name": "روز صنعت پتروشیمی",
+      "description": "روز صنعت پتروشیمی",
+      "month": 10,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-8-1",
+      "name": "روز صنعت سیمان",
+      "description": "روز صنعت سیمان",
+      "month": 10,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-9-0",
+      "name": "روز بصیرت و میثاق امّت با ولایت (سالروز حماسه‌ی ۹ دی ۸۸)",
+      "description": "روز بصیرت و میثاق امّت با ولایت (سالروز حماسه‌ی ۹ دی ۸۸)",
+      "month": 10,
+      "day": 9,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-12-0",
+      "name": "روز بزرگداشت علامه مصباح یزدی",
+      "description": "روز بزرگداشت علامه مصباح یزدی",
+      "month": 10,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-12-1",
+      "name": "روز علوم انسانی اسلامی",
+      "description": "روز علوم انسانی اسلامی",
+      "month": 10,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-13-1",
+      "name": "ابلاغ پیام تاریخی حضرت امام خمینی (ره) به گورباچف رهبر شوروی سابق",
+      "description": "ابلاغ پیام تاریخی حضرت امام خمینی (ره) به گورباچف رهبر شوروی سابق",
+      "month": 10,
+      "day": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-16-0",
+      "name": "روز شهدای دانشجو (شهادت سیدحسن علم‌الهدی و همرزمان وی در هویزه)",
+      "description": "روز شهدای دانشجو (شهادت سیدحسن علم‌الهدی و همرزمان وی در هویزه)",
+      "month": 10,
+      "day": 16,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-17-0",
+      "name": "اجرای طرح استعماری حذف حجاب (کشف حجاب) به دست رضاخان دیکتاتور",
+      "description": "اجرای طرح استعماری حذف حجاب (کشف حجاب) به دست رضاخان دیکتاتور",
+      "month": 10,
+      "day": 17,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-17-1",
+      "name": "روز بزرگداشت خواجوی کرمانی",
+      "description": "روز بزرگداشت خواجوی کرمانی",
+      "month": 10,
+      "day": 17,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-17-2",
+      "name": "روز کرمان",
+      "description": "روز کرمان",
+      "month": 10,
+      "day": 17,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-19-0",
+      "name": "قیام خونین مردم قم",
+      "description": "قیام خونین مردم قم",
+      "month": 10,
+      "day": 19,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-20-1",
+      "name": "روز قناد، صنعت شیرینی و شکلات",
+      "description": "روز قناد، صنعت شیرینی و شکلات",
+      "month": 10,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-22-0",
+      "name": "تشکیل شورای انقلاب به فرمان حضرت امام خمینی (رحمة‌اللّه علیه)",
+      "description": "تشکیل شورای انقلاب به فرمان حضرت امام خمینی (رحمة‌اللّه علیه)",
+      "month": 10,
+      "day": 22,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-25-0",
+      "name": "روز تاریخ‌نگاری انقلاب اسلامی (همزمان با سالروز صدور نامه تاریخی حضرت امام(ره) در سال ۱۳۶۷)",
+      "description": "روز تاریخ‌نگاری انقلاب اسلامی (همزمان با سالروز صدور نامه تاریخی حضرت امام(ره) در سال ۱۳۶۷)",
+      "month": 10,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-26-0",
+      "name": "آخرین فرار شاه معدوم",
+      "description": "آخرین فرار شاه معدوم",
+      "month": 10,
+      "day": 26,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-27-0",
+      "name": "شهادت شهیدان: نواب صفوی، طهماسبی، برادران واحدی و ذوالقدر از فدائیان اسلام",
+      "description": "شهادت شهیدان: نواب صفوی، طهماسبی، برادران واحدی و ذوالقدر از فدائیان اسلام",
+      "month": 10,
+      "day": 27,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-10-29-0",
+      "name": "روز معاینه فنی خودرو",
+      "description": "روز معاینه فنی خودرو",
+      "month": 10,
+      "day": 29,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-1-0",
+      "name": "روز بزرگداشت خاقانی شروانی",
+      "description": "روز بزرگداشت خاقانی شروانی",
+      "month": 11,
+      "day": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-6-0",
+      "name": "سالروز حماسه‌ی مردم آمل",
+      "description": "سالروز حماسه‌ی مردم آمل",
+      "month": 11,
+      "day": 6,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-6-1",
+      "name": "روز آواها و نواهای ایرانی - روز بزرگداشت صفی‌الدّین اُرمَوی",
+      "description": "روز آواها و نواهای ایرانی - روز بزرگداشت صفی‌الدّین اُرمَوی",
+      "month": 11,
+      "day": 6,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-11-0",
+      "name": "روز ویراستار",
+      "description": "روز ویراستار",
+      "month": 11,
+      "day": 11,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-12-0",
+      "name": "سالروز بازگشت حضرت امام خمینی (رحمة‌اللّه علیه) به ایران",
+      "description": "سالروز بازگشت حضرت امام خمینی (رحمة‌اللّه علیه) به ایران",
+      "month": 11,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-12-1",
+      "name": "آغاز دهه‌ی مبارک فجر انقلاب اسلامی",
+      "description": "آغاز دهه‌ی مبارک فجر انقلاب اسلامی",
+      "month": 11,
+      "day": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-14-0",
+      "name": "روز فنّاوری فضایی",
+      "description": "روز فنّاوری فضایی",
+      "month": 11,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-20-0",
+      "name": "روز چهارمحال و بختیاری",
+      "description": "روز چهارمحال و بختیاری",
+      "month": 11,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-21-0",
+      "name": "شکسته‌شدن حکومت‌نظامی به فرمان امام خمینی (رحمة‌اللّه علیه)",
+      "description": "شکسته‌شدن حکومت‌نظامی به فرمان امام خمینی (رحمة‌اللّه علیه)",
+      "month": 11,
+      "day": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-25-0",
+      "name": "صدور حکم تاریخی حضرت امام خمینی (رحمة‌اللّه علیه) مبنی بر ارتداد سلمان‌رشدی نویسنده‌ی خائن کتاب آیات شیطانی",
+      "description": "صدور حکم تاریخی حضرت امام خمینی (رحمة‌اللّه علیه) مبنی بر ارتداد سلمان‌رشدی نویسنده‌ی خائن کتاب آیات شیطانی",
+      "month": 11,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-29-0",
+      "name": "قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم",
+      "description": "قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم",
+      "month": 11,
+      "day": 29,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-11-29-1",
+      "name": "روز اقتصاد مقاومتی و کارآفرینی",
+      "description": "روز اقتصاد مقاومتی و کارآفرینی",
+      "month": 11,
+      "day": 29,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-3-0",
+      "name": "کودتای انگلیسی رضاخان",
+      "description": "کودتای انگلیسی رضاخان",
+      "month": 12,
+      "day": 3,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-5-1",
+      "name": "روز مهندسی",
+      "description": "روز مهندسی",
+      "month": 12,
+      "day": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-8-0",
+      "name": "روز حمایت از بیماران نادر",
+      "description": "روز حمایت از بیماران نادر",
+      "month": 12,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-8-1",
+      "name": "روز امور تربیتی و تربیت اسلامی",
+      "description": "روز امور تربیتی و تربیت اسلامی",
+      "month": 12,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-8-2",
+      "name": "روز بزرگداشت حکیم حاج ملاهادی سبزواری",
+      "description": "روز بزرگداشت حکیم حاج ملاهادی سبزواری",
+      "month": 12,
+      "day": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-9-0",
+      "name": "روز حمایت از حقوق مصرف‌کنندگان",
+      "description": "روز حمایت از حقوق مصرف‌کنندگان",
+      "month": 12,
+      "day": 9,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-10-0",
+      "name": "روز بازاریاب و مدیر فروش",
+      "description": "روز بازاریاب و مدیر فروش",
+      "month": 12,
+      "day": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-14-0",
+      "name": "روز احسان و نیکوکاری",
+      "description": "روز احسان و نیکوکاری",
+      "month": 12,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-14-1",
+      "name": "روز ترویج فرهنگ قرض‌الحسنه",
+      "description": "روز ترویج فرهنگ قرض‌الحسنه",
+      "month": 12,
+      "day": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-15-1",
+      "name": "روز آموزش همگانی حفظ محیط زیست",
+      "description": "روز آموزش همگانی حفظ محیط زیست",
+      "month": 12,
+      "day": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-16-0",
+      "name": "روز کارشناس و متخصص تغذیه",
+      "description": "روز کارشناس و متخصص تغذیه",
+      "month": 12,
+      "day": 16,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-18-0",
+      "name": "روز بزرگداشت سید‌جمال‌الدّین اسدآبادی",
+      "description": "روز بزرگداشت سید‌جمال‌الدّین اسدآبادی",
+      "month": 12,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-18-1",
+      "name": "سالروز تأسیس کانون‌های فرهنگی‌و‌هنری مساجد کشور",
+      "description": "سالروز تأسیس کانون‌های فرهنگی‌و‌هنری مساجد کشور",
+      "month": 12,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-18-2",
+      "name": "روز بوشهر",
+      "description": "روز بوشهر",
+      "month": 12,
+      "day": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-20-0",
+      "name": "روز راهیان نور",
+      "description": "روز راهیان نور",
+      "month": 12,
+      "day": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-21-1",
+      "name": "روز خادمان آرامستان",
+      "description": "روز خادمان آرامستان",
+      "month": 12,
+      "day": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-22-0",
+      "name": "روز بزرگداشت شهدا (سالروز صدور فرمان حضرت امام خمینی رحمة‌اللّه علیه، مبنی بر تأسیس بنیاد شهید انقلاب اسلامی)",
+      "description": "روز بزرگداشت شهدا (سالروز صدور فرمان حضرت امام خمینی رحمة‌اللّه علیه، مبنی بر تأسیس بنیاد شهید انقلاب اسلامی)",
+      "month": 12,
+      "day": 22,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-23-0",
+      "name": "روز صنعت طلا، جواهر، نقره و گوهرسنگ‌ها",
+      "description": "روز صنعت طلا، جواهر، نقره و گوهرسنگ‌ها",
+      "month": 12,
+      "day": 23,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-25-1",
+      "name": "بمباران شیمیایی حلبچه به دست ارتش بعث عراق",
+      "description": "بمباران شیمیایی حلبچه به دست ارتش بعث عراق",
+      "month": 12,
+      "day": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-shamsi-12-30-0",
+      "name": "این روز فقط در سال‌های کبیسه وجود دارد و معمولاً تعطیل اعلام می‌گردد",
+      "description": "این روز فقط در سال‌های کبیسه وجود دارد و معمولاً تعطیل اعلام می‌گردد",
+      "month": 12,
+      "day": 30,
+      "category": "observance",
+      "isDayOff": false
     }
   ],
   "lunarOccasions": [
@@ -948,6 +3342,375 @@
       "hijriDay": 10,
       "category": "religiousShia",
       "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-1-1-0",
+      "name": "آغاز سال هجری قمری (اوّل ماه محرّم)",
+      "description": "آغاز سال هجری قمری (اوّل ماه محرّم)",
+      "hijriMonth": 1,
+      "hijriDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-1-1-1",
+      "name": "روز شعر و ادبیات آیینی - روز بزرگداشت محتشم کاشانی",
+      "description": "روز شعر و ادبیات آیینی - روز بزرگداشت محتشم کاشانی",
+      "hijriMonth": 1,
+      "hijriDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-1-2-0",
+      "name": "روز امر به معروف و نهی از منکر",
+      "description": "روز امر به معروف و نهی از منکر",
+      "hijriMonth": 1,
+      "hijriDay": 2,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-1-11-0",
+      "name": "روز تجلیل از اسرا و مفقودان",
+      "description": "روز تجلیل از اسرا و مفقودان",
+      "hijriMonth": 1,
+      "hijriDay": 11,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-1-12-0",
+      "name": "شهادت حضرت امام زین‌العابدین علیه‌السلام",
+      "description": "شهادت حضرت امام زین‌العابدین علیه‌السلام",
+      "hijriMonth": 1,
+      "hijriDay": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-1-25-1",
+      "name": "یادروز قیام مردم سیستان به خون‌خواهی شهدای کربلا",
+      "description": "یادروز قیام مردم سیستان به خون‌خواهی شهدای کربلا",
+      "hijriMonth": 1,
+      "hijriDay": 25,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-2-3-0",
+      "name": "ولادت حضرت امام محمّد باقر علیه‌السلام، به روایتی",
+      "description": "ولادت حضرت امام محمّد باقر علیه‌السلام، به روایتی",
+      "hijriMonth": 2,
+      "hijriDay": 3,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-2-7-0",
+      "name": "شهادت حضرت امام حسن مجتبی علیه‌السلام، به روایتی",
+      "description": "شهادت حضرت امام حسن مجتبی علیه‌السلام، به روایتی",
+      "hijriMonth": 2,
+      "hijriDay": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-2-7-1",
+      "name": "روز بزرگداشت سلمان فارسی",
+      "description": "روز بزرگداشت سلمان فارسی",
+      "hijriMonth": 2,
+      "hijriDay": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-3-1-0",
+      "name": "هجرت حضرت رسول اکرم صلی اللّه علیه و آله از مکّه به مدینه",
+      "description": "هجرت حضرت رسول اکرم صلی اللّه علیه و آله از مکّه به مدینه",
+      "hijriMonth": 3,
+      "hijriDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-3-12-0",
+      "name": "ولادت حضرت رسول اکرم صلی اللّه علیه و آله، به روایت اهل سنت",
+      "description": "ولادت حضرت رسول اکرم صلی اللّه علیه و آله، به روایت اهل سنت",
+      "hijriMonth": 3,
+      "hijriDay": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-3-12-1",
+      "name": "آغاز هفته‌ی وحدت",
+      "description": "آغاز هفته‌ی وحدت",
+      "hijriMonth": 3,
+      "hijriDay": 12,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-3-14-0",
+      "name": "روز سیستان و بلوچستان",
+      "description": "روز سیستان و بلوچستان",
+      "hijriMonth": 3,
+      "hijriDay": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-3-16-0",
+      "name": "روز وقف",
+      "description": "روز وقف",
+      "hijriMonth": 3,
+      "hijriDay": 16,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-4-4-0",
+      "name": "ولادت حضرت عبدالعظیم حسنی علیه‌السلام",
+      "description": "ولادت حضرت عبدالعظیم حسنی علیه‌السلام",
+      "hijriMonth": 4,
+      "hijriDay": 4,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-4-10-0",
+      "name": "وفات حضرت معصومه سلام‌اللّه علیها",
+      "description": "وفات حضرت معصومه سلام‌اللّه علیها",
+      "hijriMonth": 4,
+      "hijriDay": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-5-13-0",
+      "name": "شهادت حضرت فاطمه‌ی زهرا سلام‌اللّه علیها، به روایتی",
+      "description": "شهادت حضرت فاطمه‌ی زهرا سلام‌اللّه علیها، به روایتی",
+      "hijriMonth": 5,
+      "hijriDay": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-6-20-1",
+      "name": "تولّد حضرت امام خمینی (رحمة‌اللّه علیه)، رهبر کبیر انقلاب اسلامی",
+      "description": "تولّد حضرت امام خمینی (رحمة‌اللّه علیه)، رهبر کبیر انقلاب اسلامی",
+      "hijriMonth": 6,
+      "hijriDay": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-7-1-0",
+      "name": "ولادت حضرت امام محمّد باقر علیه‌السلام",
+      "description": "ولادت حضرت امام محمّد باقر علیه‌السلام",
+      "hijriMonth": 7,
+      "hijriDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-7-13-1",
+      "name": "آغاز ایام البیض (اعتکاف)",
+      "description": "آغاز ایام البیض (اعتکاف)",
+      "hijriMonth": 7,
+      "hijriDay": 13,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-7-15-0",
+      "name": "ارتحال حضرت زینب کبری سلام‌اللّه علیها",
+      "description": "ارتحال حضرت زینب کبری سلام‌اللّه علیها",
+      "hijriMonth": 7,
+      "hijriDay": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-7-15-1",
+      "name": "تغییر قبله‌ی مسلمین از بیت‌المقدس به مکّه‌ی معظّمه",
+      "description": "تغییر قبله‌ی مسلمین از بیت‌المقدس به مکّه‌ی معظّمه",
+      "hijriMonth": 7,
+      "hijriDay": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-8-5-1",
+      "name": "روز صحیفه سجّادیه",
+      "description": "روز صحیفه سجّادیه",
+      "hijriMonth": 8,
+      "hijriDay": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-8-15-0",
+      "name": "ولادت حضرت قائم عجل‌اللّه تعالی فرجه (جشن صاحب‌الزّمان) و روز جهانی مستضعفان",
+      "description": "ولادت حضرت قائم عجل‌اللّه تعالی فرجه (جشن صاحب‌الزّمان) و روز جهانی مستضعفان",
+      "hijriMonth": 8,
+      "hijriDay": 15,
+      "category": "religiousShia",
+      "isDayOff": true
+    },
+    {
+      "id": "jdf-ghamari-9-15-1",
+      "name": "روز اکرام و تکریم خیّرین",
+      "description": "روز اکرام و تکریم خیّرین",
+      "hijriMonth": 9,
+      "hijriDay": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-9-18-0",
+      "name": "شب قدر",
+      "description": "شب قدر",
+      "hijriMonth": 9,
+      "hijriDay": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-9-19-1",
+      "name": "روز نهج‌البلاغه",
+      "description": "روز نهج‌البلاغه",
+      "hijriMonth": 9,
+      "hijriDay": 19,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-9-20-0",
+      "name": "شب قدر",
+      "description": "شب قدر",
+      "hijriMonth": 9,
+      "hijriDay": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-9-22-0",
+      "name": "شب قدر",
+      "description": "شب قدر",
+      "hijriMonth": 9,
+      "hijriDay": 22,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-10-17-0",
+      "name": "روز فرهنگ پهلوانی و ورزش زورخانه‌ای",
+      "description": "روز فرهنگ پهلوانی و ورزش زورخانه‌ای",
+      "hijriMonth": 10,
+      "hijriDay": 17,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-10-21-0",
+      "name": "فتح اندلس به دست مسلمانان",
+      "description": "فتح اندلس به دست مسلمانان",
+      "hijriMonth": 10,
+      "hijriDay": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-11-1-0",
+      "name": "ولادت حضرت معصومه سلام‌اللّه علیها و روز دختران",
+      "description": "ولادت حضرت معصومه سلام‌اللّه علیها و روز دختران",
+      "hijriMonth": 11,
+      "hijriDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-11-1-1",
+      "name": "آغاز دهه‌ی کرامت",
+      "description": "آغاز دهه‌ی کرامت",
+      "hijriMonth": 11,
+      "hijriDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-11-5-0",
+      "name": "روز تجلیل از امام‌زادگان و بقاع متبرکه",
+      "description": "روز تجلیل از امام‌زادگان و بقاع متبرکه",
+      "hijriMonth": 11,
+      "hijriDay": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-11-5-1",
+      "name": "روز بزرگداشت حضرت صالح بن موسی کاظم علیه‌السلام",
+      "description": "روز بزرگداشت حضرت صالح بن موسی کاظم علیه‌السلام",
+      "hijriMonth": 11,
+      "hijriDay": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-11-6-0",
+      "name": "روز بزرگداشت حضرت احمد بن موسی شاهچراغ علیه‌السلام",
+      "description": "روز بزرگداشت حضرت احمد بن موسی شاهچراغ علیه‌السلام",
+      "hijriMonth": 11,
+      "hijriDay": 6,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-12-6-0",
+      "name": "شهادت مظلومانه‌ی زائران خانه‌ی خدا به دست مأموران آل‌سعود در سال ۱۳۶۶ هجری‌شمسی",
+      "description": "شهادت مظلومانه‌ی زائران خانه‌ی خدا به دست مأموران آل‌سعود در سال ۱۳۶۶ هجری‌شمسی",
+      "hijriMonth": 12,
+      "hijriDay": 6,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-12-10-1",
+      "name": "آغاز دهه‌ی امامت و ولایت",
+      "description": "آغاز دهه‌ی امامت و ولایت",
+      "hijriMonth": 12,
+      "hijriDay": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-12-15-0",
+      "name": "ولادت حضرت امام علی نقی «هادی» علیه‌السلام",
+      "description": "ولادت حضرت امام علی نقی «هادی» علیه‌السلام",
+      "hijriMonth": 12,
+      "hijriDay": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-12-20-0",
+      "name": "ولادت حضرت امام موسی کاظم علیه‌السلام",
+      "description": "ولادت حضرت امام موسی کاظم علیه‌السلام",
+      "hijriMonth": 12,
+      "hijriDay": 20,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-ghamari-12-25-0",
+      "name": "روز خانواده و تکریم بازنشستگان",
+      "description": "روز خانواده و تکریم بازنشستگان",
+      "hijriMonth": 12,
+      "hijriDay": 25,
+      "category": "observance",
+      "isDayOff": false
     }
   ],
   "dateOverrides": [
@@ -998,6 +3761,278 @@
       "year": 1405,
       "month": 8,
       "day": 22
+    }
+  ],
+  "gregorianOccasions": [
+    {
+      "id": "jdf-miladi-1-1-0",
+      "name": "آغاز سال میلادی",
+      "description": "آغاز سال میلادی",
+      "gregorianMonth": 1,
+      "gregorianDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-1-26-0",
+      "name": "روز جهانی گمرک",
+      "description": "روز جهانی گمرک",
+      "gregorianMonth": 1,
+      "gregorianDay": 26,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-3-22-0",
+      "name": "روز جهانی آب",
+      "description": "روز جهانی آب",
+      "gregorianMonth": 3,
+      "gregorianDay": 22,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-3-23-0",
+      "name": "روز جهانی هواشناسی",
+      "description": "روز جهانی هواشناسی",
+      "gregorianMonth": 3,
+      "gregorianDay": 23,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-4-5-0",
+      "name": "روز جهانی کودک فلسطینی",
+      "description": "روز جهانی کودک فلسطینی",
+      "gregorianMonth": 4,
+      "gregorianDay": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-5-1-0",
+      "name": "روز جهانی کار و کارگر",
+      "description": "روز جهانی کار و کارگر",
+      "gregorianMonth": 5,
+      "gregorianDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-5-5-0",
+      "name": "روز جهانی ماما",
+      "description": "روز جهانی ماما",
+      "gregorianMonth": 5,
+      "gregorianDay": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-5-8-0",
+      "name": "روز جهانی صلیب‌سرخ و هلال‌احمر",
+      "description": "روز جهانی صلیب‌سرخ و هلال‌احمر",
+      "gregorianMonth": 5,
+      "gregorianDay": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-5-18-0",
+      "name": "روز جهانی موزه و میراث‌فرهنگی",
+      "description": "روز جهانی موزه و میراث‌فرهنگی",
+      "gregorianMonth": 5,
+      "gregorianDay": 18,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-5-31-0",
+      "name": "روز جهانی بدون دخانیات",
+      "description": "روز جهانی بدون دخانیات",
+      "gregorianMonth": 5,
+      "gregorianDay": 31,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-6-5-0",
+      "name": "روز جهانی محیط زیست",
+      "description": "روز جهانی محیط زیست",
+      "gregorianMonth": 6,
+      "gregorianDay": 5,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-6-17-0",
+      "name": "روز جهانی بیابان‌زدایی",
+      "description": "روز جهانی بیابان‌زدایی",
+      "gregorianMonth": 6,
+      "gregorianDay": 17,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-6-26-0",
+      "name": "روز جهانی مبارزه با مواد‌مخدر",
+      "description": "روز جهانی مبارزه با مواد‌مخدر",
+      "gregorianMonth": 6,
+      "gregorianDay": 26,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-8-1-0",
+      "name": "روز جهانی شیر مادر",
+      "description": "روز جهانی شیر مادر",
+      "gregorianMonth": 8,
+      "gregorianDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-8-21-0",
+      "name": "روز جهانی مسجد",
+      "description": "روز جهانی مسجد",
+      "gregorianMonth": 8,
+      "gregorianDay": 21,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-9-27-0",
+      "name": "روز جهانی جهانگردی - روز گردشگری",
+      "description": "روز جهانی جهانگردی - روز گردشگری",
+      "gregorianMonth": 9,
+      "gregorianDay": 27,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-9-30-0",
+      "name": "روز جهانی دریانوردی",
+      "description": "روز جهانی دریانوردی",
+      "gregorianMonth": 9,
+      "gregorianDay": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-9-30-1",
+      "name": "روز جهانی ناشنوایان",
+      "description": "روز جهانی ناشنوایان",
+      "gregorianMonth": 9,
+      "gregorianDay": 30,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-10-1-0",
+      "name": "روز جهانی سالمندان",
+      "description": "روز جهانی سالمندان",
+      "gregorianMonth": 10,
+      "gregorianDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-10-7-0",
+      "name": "روز جهانی حماسه فلسطین، طوفان الأقصی",
+      "description": "روز جهانی حماسه فلسطین، طوفان الأقصی",
+      "gregorianMonth": 10,
+      "gregorianDay": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-10-8-0",
+      "name": "روز جهانی کودک",
+      "description": "روز جهانی کودک",
+      "gregorianMonth": 10,
+      "gregorianDay": 8,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-10-9-0",
+      "name": "روز جهانی پست",
+      "description": "روز جهانی پست",
+      "gregorianMonth": 10,
+      "gregorianDay": 9,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-10-14-0",
+      "name": "روز جهانی استاندارد",
+      "description": "روز جهانی استاندارد",
+      "gregorianMonth": 10,
+      "gregorianDay": 14,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-10-15-0",
+      "name": "روز جهانی نابینایان (عصای سفید)",
+      "description": "روز جهانی نابینایان (عصای سفید)",
+      "gregorianMonth": 10,
+      "gregorianDay": 15,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-10-16-0",
+      "name": "روز جهانی غذا",
+      "description": "روز جهانی غذا",
+      "gregorianMonth": 10,
+      "gregorianDay": 16,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-11-10-0",
+      "name": "روز جهانی علم در خدمت صلح و توسعه",
+      "description": "روز جهانی علم در خدمت صلح و توسعه",
+      "gregorianMonth": 11,
+      "gregorianDay": 10,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-12-1-0",
+      "name": "روز جهانی مبارزه با ایدز",
+      "description": "روز جهانی مبارزه با ایدز",
+      "gregorianMonth": 12,
+      "gregorianDay": 1,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-12-3-0",
+      "name": "روز جهانی معلولان",
+      "description": "روز جهانی معلولان",
+      "gregorianMonth": 12,
+      "gregorianDay": 3,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-12-7-0",
+      "name": "روز جهانی هواپیمایی",
+      "description": "روز جهانی هواپیمایی",
+      "gregorianMonth": 12,
+      "gregorianDay": 7,
+      "category": "observance",
+      "isDayOff": false
+    },
+    {
+      "id": "jdf-miladi-12-25-0",
+      "name": "ولادت حضرت عیسی مسیح علیه‌السلام",
+      "description": "ولادت حضرت عیسی مسیح علیه‌السلام",
+      "gregorianMonth": 12,
+      "gregorianDay": 25,
+      "category": "observance",
+      "isDayOff": false
     }
   ]
 }

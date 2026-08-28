@@ -82,3 +82,22 @@ where the app's tabular-Hijri computation is known to drift by a day.
 - Official public holidays that shift the app's core behavior in ways that need testing
   (new Eid dates, etc.) — those still belong in an app update, reviewed and tested first.
 - Anything unverified. An entry with a wrong date is worse than a missing entry.
+
+## gregorianOccasions
+
+An occasion anchored to a **Gregorian month/day**, recurring every Gregorian year (e.g.
+international observance days). Not yet consumed by the app — the Swift side needs a
+Gregorian→Shamsi conversion path added before these can be displayed. Kept here so the
+data isn't lost while that's pending.
+
+```json
+{
+  "id": "jdf-miladi-1-1-0",
+  "name": "آغاز سال میلادی",
+  "description": "آغاز سال میلادی",
+  "gregorianMonth": 1,
+  "gregorianDay": 1,
+  "category": "observance",
+  "isDayOff": false
+}
+```
