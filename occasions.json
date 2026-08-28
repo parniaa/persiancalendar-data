@@ -1020,15 +1020,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-3-23-0",
-      "name": "سالروز آغاز عملیات وعده صادق ۳ و جنگ ۱۲ روزه در انتقام شهادت سرداران، دانشمندان و مردم ایران در حمله رژیم صهیونیستی",
-      "description": "سالروز آغاز عملیات وعده صادق ۳ و جنگ ۱۲ روزه در انتقام شهادت سرداران، دانشمندان و مردم ایران در حمله رژیم صهیونیستی",
-      "month": 3,
-      "day": 23,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-3-23-1",
       "name": "روز شهدای اقتدار و اتحاد ملی",
       "description": "روز شهدای اقتدار و اتحاد ملی",
@@ -1812,15 +1803,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-6-31-1",
-      "name": "آغاز هفته‌ی دفاع مقدّس",
-      "description": "آغاز هفته‌ی دفاع مقدّس",
-      "month": 6,
-      "day": 31,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-7-1-0",
       "name": "روز پرچم",
       "description": "روز پرچم",
@@ -1853,24 +1835,6 @@
       "description": "شکست حصر آبادان در عملیات ثامن‌الائمه علیه‌السلام",
       "month": 7,
       "day": 5,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-7-6-0",
-      "name": "سالروز شهادت سید حسن نصرالله، دبیرکل حزب‌الله لبنان و شهید راه آزادی قدس، با بمباران توسط رژیم صهیونیستی و امریکا",
-      "description": "سالروز شهادت سید حسن نصرالله، دبیرکل حزب‌الله لبنان و شهید راه آزادی قدس، با بمباران توسط رژیم صهیونیستی و امریکا",
-      "month": 7,
-      "day": 6,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-7-7-0",
-      "name": "روز بزرگداشت فرماندهان شهید دفاع مقدّس",
-      "description": "روز بزرگداشت فرماندهان شهید دفاع مقدّس",
-      "month": 7,
-      "day": 7,
       "category": "observance",
       "isDayOff": false
     },
@@ -1992,29 +1956,11 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-7-24-2",
-      "name": "سالروز واقعه‌ی به‌آتش‌کشیدن مسجد جامع شهر کرمان به دست دژخیمان حکومت پهلوی",
-      "description": "سالروز واقعه‌ی به‌آتش‌کشیدن مسجد جامع شهر کرمان به دست دژخیمان حکومت پهلوی",
-      "month": 7,
-      "day": 24,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-7-24-3",
       "name": "روز صنعت آسانسور و پله برقی",
       "description": "روز صنعت آسانسور و پله برقی",
       "month": 7,
       "day": 24,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-7-25-0",
-      "name": "روز نسل‌کشی کودکان و زنان فلسطینی",
-      "description": "روز نسل‌کشی کودکان و زنان فلسطینی",
-      "month": 7,
-      "day": 25,
       "category": "observance",
       "isDayOff": false
     },
@@ -3797,15 +3743,6 @@
       "description": "روز جهانی هواشناسی",
       "gregorianMonth": 3,
       "gregorianDay": 23,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-miladi-4-5-0",
-      "name": "روز جهانی کودک فلسطینی",
-      "description": "روز جهانی کودک فلسطینی",
-      "gregorianMonth": 4,
-      "gregorianDay": 5,
       "category": "observance",
       "isDayOff": false
     },
