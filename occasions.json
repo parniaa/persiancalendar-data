@@ -2172,15 +2172,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-10-9-0",
-      "name": "روز بصیرت و میثاق امّت با ولایت (سالروز حماسه‌ی ۹ دی ۸۸)",
-      "description": "روز بصیرت و میثاق امّت با ولایت (سالروز حماسه‌ی ۹ دی ۸۸)",
-      "month": 10,
-      "day": 9,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-10-12-0",
       "name": "روز بزرگداشت علامه مصباح یزدی",
       "description": "روز بزرگداشت علامه مصباح یزدی",
@@ -2267,15 +2258,6 @@
       "description": "روز بزرگداشت خاقانی شروانی",
       "month": 11,
       "day": 1,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-11-6-0",
-      "name": "سالروز حماسه‌ی مردم آمل",
-      "description": "سالروز حماسه‌ی مردم آمل",
-      "month": 11,
-      "day": 6,
       "category": "observance",
       "isDayOff": false
     },
