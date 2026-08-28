@@ -570,15 +570,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-1-2-1",
-      "name": "هجوم مأموران ستم‌شاهی پهلوی به مدرسه‌ی فیضیه‌ی قم",
-      "description": "هجوم مأموران ستم‌شاهی پهلوی به مدرسه‌ی فیضیه‌ی قم",
-      "month": 1,
-      "day": 2,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-1-2-2",
       "name": "آغاز عملیات فتح‌المبین",
       "description": "آغاز عملیات فتح‌المبین",
@@ -969,15 +960,6 @@
       "id": "jdf-shamsi-3-20-0",
       "name": "روز جهانی صنایع دستی - روز ملّی فرش",
       "description": "روز جهانی صنایع دستی - روز ملّی فرش",
-      "month": 3,
-      "day": 20,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-3-20-1",
-      "name": "شهادت آیت‌اللّه سعیدی به دست مأموران ستم‌شاهی پهلوی",
-      "description": "شهادت آیت‌اللّه سعیدی به دست مأموران ستم‌شاهی پهلوی",
       "month": 3,
       "day": 20,
       "category": "observance",
@@ -1668,15 +1650,6 @@
       "isDayOff": false
     },
     {
-      "id": "jdf-shamsi-6-17-0",
-      "name": "قیام ۱۷ شهریور و کشتار جمعی از مردم به‌دست مأموران ستم‌شاهی پهلوی",
-      "description": "قیام ۱۷ شهریور و کشتار جمعی از مردم به‌دست مأموران ستم‌شاهی پهلوی",
-      "month": 6,
-      "day": 17,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
       "id": "jdf-shamsi-6-19-0",
       "name": "وفات آیت‌اللّه سیدمحمود طالقانی اوّلین امام جمعه‌ی تهران",
       "description": "وفات آیت‌اللّه سیدمحمود طالقانی اوّلین امام جمعه‌ی تهران",
@@ -2312,15 +2285,6 @@
       "description": "روز دفاتر اسناد رسمی",
       "month": 10,
       "day": 6,
-      "category": "observance",
-      "isDayOff": false
-    },
-    {
-      "id": "jdf-shamsi-10-7-1",
-      "name": "شهادت آیت‌اللّه حسین غفّاری به دست مأموران ستم‌شاهی پهلوی",
-      "description": "شهادت آیت‌اللّه حسین غفّاری به دست مأموران ستم‌شاهی پهلوی",
-      "month": 10,
-      "day": 7,
       "category": "observance",
       "isDayOff": false
     },
