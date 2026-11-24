@@ -34,8 +34,8 @@ Full field reference: `occasions.schema.md`.
 ## What's in `yalda_poems.json`
 
 100 short Hafez ghazals (5 to 7 beyts) for the Yalda season, which runs from 30 Aban to
-Yalda night (30 Azar). Each poem has the full text, every beyt with a plain-Persian
-meaning (`beyts[].meaning`), and a short summary of the whole ghazal (`summary`).
+Yalda night (30 Azar). Each poem has the full text, its beyts (`beyts[].lines`), and a
+short plain-language summary of the whole ghazal (`summary`).
 `lines` repeats the first beyt so an entry can be shown like the daily poem.
 
 ## Where the data came from
